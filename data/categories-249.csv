@@ -1,0 +1,249 @@
+group,slug,name,product_count,definition,url
+Entertainment & Media,news-media,News & Media,8659,"News sites, publications and media outlets.",https://earlylore.com/categories/news-media
+Entertainment & Media,directories,Directories & Curated Lists,10541,"Tool directories, curated lists and discovery sites.",https://earlylore.com/categories/directories
+Entertainment & Media,video-streaming,"Movies, TV & Streaming",6312,"Watching, tracking and discovering movies, shows and videos.",https://earlylore.com/categories/video-streaming
+Entertainment & Media,music,Music Listening & Discovery,2669,"Music streaming, discovery and sharing.",https://earlylore.com/categories/music
+Entertainment & Media,reading,Books & Reading,4222,"Reading, audiobooks, book discovery and reading trackers.",https://earlylore.com/categories/reading
+Entertainment & Media,sports,Sports & Fantasy,2899,"Sports news, scores, fantasy sports and fan apps.",https://earlylore.com/categories/sports
+Entertainment & Media,gambling,Betting & Gambling,3675,"Casinos, sports betting, lotteries and betting tools.",https://earlylore.com/categories/gambling
+Entertainment & Media,interactive-stories,Interactive Fiction & AI Stories,594,"Interactive stories, choose-your-path fiction and AI storytelling.",https://earlylore.com/categories/interactive-stories
+Entertainment & Media,ai-companions,AI Companions & Character Chat,930,"AI friends, partners and role-play characters.",https://earlylore.com/categories/ai-companions
+Entertainment & Media,fun-quizzes,"Quizzes, Memes & Fun",2756,"Personality tests, quizzes, memes and novelty fun.",https://earlylore.com/categories/fun-quizzes
+Software Development,ai-coding,AI Coding Assistants & Editors,2248,"Code completion, coding agents, code review bots and IDEs.",https://earlylore.com/categories/ai-coding
+Software Development,app-builders,AI App Builders & Low-Code,1509,Generate working apps from prompts or visual builders (vibe coding). Not: marketing websites (see Website & Landing Page Builders).,https://earlylore.com/categories/app-builders
+Software Development,backend,"Backend, Databases & Storage",1067,"Backend-as-a-service, databases, object storage, queues and caches.",https://earlylore.com/categories/backend
+Software Development,auth-billing,"Auth, Payments & Billing Infrastructure",555,"Developer services for authentication, permissions, payments and subscription billing.",https://earlylore.com/categories/auth-billing
+Software Development,apis-integrations,"APIs, Webhooks & Integration Infrastructure",1441,"Webhooks, API management, unified APIs and wrappers over third-party systems.",https://earlylore.com/categories/apis-integrations
+Software Development,hosting-devops,"Hosting, Deployment & DevOps",3678,"Hosting, CI/CD, infrastructure as code, cloud cost and server management.",https://earlylore.com/categories/hosting-devops
+Software Development,domains-email-infra,"Domains, DNS & Email Delivery",899,"Domain registration and management, DNS, and transactional email sending.",https://earlylore.com/categories/domains-email-infra
+Software Development,monitoring,Monitoring & Observability,2200,"Uptime, logs, error tracking, APM, status pages and cron monitoring.",https://earlylore.com/categories/monitoring
+Software Development,testing-qa,Testing & Code Quality,2291,"Automated tests, browser testing, QA and static analysis.",https://earlylore.com/categories/testing-qa
+Software Development,mobile-dev,Mobile App Development & Release,661,"Mobile build, over-the-air updates, app store release and ASO.",https://earlylore.com/categories/mobile-dev
+Software Development,game-dev,Game Development,660,"Game engines, asset pipelines, game backends and game-making tools.",https://earlylore.com/categories/game-dev
+Software Development,dev-utilities,Developer Utilities,6510,"Terminals, snippets, formatters, Git clients and other everyday developer helpers.",https://earlylore.com/categories/dev-utilities
+Software Development,templates-components,"Boilerplates, Templates & UI Components",3035,"SaaS boilerplates, starter kits, UI component libraries and code templates.",https://earlylore.com/categories/templates-components
+Software Development,developer-docs,Developer Docs & Portals,643,"API documentation, SDK generation and developer portals.",https://earlylore.com/categories/developer-docs
+Software Development,web3-dev,Blockchain Development,909,"Smart contracts, on-chain data APIs and Web3 developer tools.",https://earlylore.com/categories/web3-dev
+Software Development,dev-services,Software Development Services,4805,"Agencies, studios and freelancers that build software or AI products for clients.",https://earlylore.com/categories/dev-services
+Productivity & Collaboration,notes-knowledge,Notes & Knowledge Management,3379,"Notes, personal knowledge bases and second brains.",https://earlylore.com/categories/notes-knowledge
+Productivity & Collaboration,tasks-projects,Tasks & Project Management,5589,"To-dos, projects, kanban and team work tracking.",https://earlylore.com/categories/tasks-projects
+Productivity & Collaboration,calendar-scheduling,Calendars & Scheduling,2038,"Calendars, meeting scheduling and appointment booking pages.",https://earlylore.com/categories/calendar-scheduling
+Productivity & Collaboration,meetings,Meetings & Note-Takers,1439,Video meetings and AI meeting notes.,https://earlylore.com/categories/meetings
+Productivity & Collaboration,team-chat,Team Communication,1117,"Team chat, async video and internal communication.",https://earlylore.com/categories/team-chat
+Productivity & Collaboration,email-clients,Email Clients & Inbox,1148,"Email apps, inbox management and AI email assistants.",https://earlylore.com/categories/email-clients
+Productivity & Collaboration,docs-wiki,Docs & Wikis,478,Collaborative documents and team wikis.,https://earlylore.com/categories/docs-wiki
+Productivity & Collaboration,whiteboards,Whiteboards & Diagrams,1054,"Whiteboards, mind maps and diagramming.",https://earlylore.com/categories/whiteboards
+Productivity & Collaboration,personal-assistants,AI Personal Assistants,1123,AI assistants that run errands across a person's apps and messages.,https://earlylore.com/categories/personal-assistants
+Productivity & Collaboration,desktop-management,Desktop & Window Management,913,"Launchers, window managers, menu bar and dock tools.",https://earlylore.com/categories/desktop-management
+Productivity & Collaboration,browser-productivity,Browser & Tab Productivity,1487,"Tab managers, reading lists and browser workspaces.",https://earlylore.com/categories/browser-productivity
+Productivity & Collaboration,habits-time,"Habits, Focus & Time Tracking",4357,"Habit trackers, focus timers and time tracking.",https://earlylore.com/categories/habits-time
+Productivity & Collaboration,files-storage,File Storage & Sync,2834,"Cloud drives, file organization and sync.",https://earlylore.com/categories/files-storage
+Finance,accounting,Accounting & Bookkeeping,1524,"Business bookkeeping, accounting and financial statements.",https://earlylore.com/categories/accounting
+Finance,invoicing-payments,Invoicing & Payments,3147,"Invoices, payment links and accepting payments.",https://earlylore.com/categories/invoicing-payments
+Finance,revenue-analytics,Billing & Revenue Analytics,345,"Subscription billing operations, MRR analytics and revenue dashboards.",https://earlylore.com/categories/revenue-analytics
+Finance,spend-expense,Spend & Expense Management,516,"Company spend, expenses, cards and subscription tracking.",https://earlylore.com/categories/spend-expense
+Finance,tax,Tax,691,"Tax filing, calculation and compliance.",https://earlylore.com/categories/tax
+Finance,personal-finance,Personal Finance & Budgeting,4994,"Personal budgets, net worth and money management.",https://earlylore.com/categories/personal-finance
+Finance,investing-trading,Investing & Trading,4411,"Stocks, options, prediction markets and trading tools.",https://earlylore.com/categories/investing-trading
+Finance,crypto,Crypto Wallets & Trading,4666,"Wallets, crypto trading and portfolio tracking.",https://earlylore.com/categories/crypto
+Finance,financial-data,Financial Data & Research,2861,"Market data, financial research and screeners.",https://earlylore.com/categories/financial-data
+Finance,fundraising,Fundraising & Cap Tables,1236,"Fundraising, investor relations and cap table management.",https://earlylore.com/categories/fundraising
+Finance,banking-insurance,"Banking, Lending & Insurance",2337,"Digital banking, loans and insurance.",https://earlylore.com/categories/banking-insurance
+Marketing,seo,SEO Tools,3440,"Keyword research, rank tracking, site audits and SEO analytics.",https://earlylore.com/categories/seo
+Marketing,ai-seo-content,AI SEO Content,909,Generate and publish search-optimized content at scale.,https://earlylore.com/categories/ai-seo-content
+Marketing,ai-visibility,AI Search Visibility (GEO/AEO),1771,"Track and improve how brands appear in ChatGPT, Perplexity and AI overviews.",https://earlylore.com/categories/ai-visibility
+Marketing,backlinks-launch,Backlinks & Launch Directories,1080,"Link building, directory submission and product launch distribution.",https://earlylore.com/categories/backlinks-launch
+Marketing,social-media-management,Social Media Management & Scheduling,2350,"Plan, schedule and publish across social platforms for brands and teams.",https://earlylore.com/categories/social-media-management
+Marketing,social-growth,Social Account Growth,3222,"Content and audience growth for one person's or brand's X, LinkedIn, Instagram or TikTok account.",https://earlylore.com/categories/social-growth
+Marketing,email-marketing,Email Marketing,1132,"Email lists, newsletters for marketing, automation and broadcasts.",https://earlylore.com/categories/email-marketing
+Marketing,messaging-marketing,"SMS, WhatsApp & Push Marketing",1027,"Marketing through SMS, WhatsApp, push notifications and chat apps.",https://earlylore.com/categories/messaging-marketing
+Marketing,ads-management,Paid Ads Management,1914,"Plan, launch and optimize campaigns in Meta, Google, TikTok and other ad platforms.",https://earlylore.com/categories/ads-management
+Marketing,ad-creatives,Ad & Marketing Creatives,1311,"Generate ad images, ad videos and marketing visuals at scale.",https://earlylore.com/categories/ad-creatives
+Marketing,influencer-ugc,Influencer & UGC Marketing,1111,"Creator partnerships, UGC sourcing and influencer campaigns.",https://earlylore.com/categories/influencer-ugc
+Marketing,affiliate-referral,Affiliate & Referral Programs,765,"Affiliate tracking, referral rewards and partner programs.",https://earlylore.com/categories/affiliate-referral
+Marketing,websites-landing,Website & Landing Page Builders,3360,"No-code websites, landing pages and A/B tests for them.",https://earlylore.com/categories/websites-landing
+Marketing,attribution,Marketing Attribution,583,"Ad and channel attribution, conversion tracking and marketing analytics.",https://earlylore.com/categories/attribution
+Marketing,conversion,Conversion Optimization & Social Proof,1241,"Popups, testimonials widgets, personalization and CRO.",https://earlylore.com/categories/conversion
+Marketing,pr-outreach,PR & Media Outreach,363,"Press outreach, journalist databases and PR distribution.",https://earlylore.com/categories/pr-outreach
+Utilities,file-conversion,File Conversion & Compression,3937,"Convert, compress and resize files and media.",https://earlylore.com/categories/file-conversion
+Utilities,media-downloaders,Media Downloaders,2489,"Download videos, audio and files from sites.",https://earlylore.com/categories/media-downloaders
+Utilities,generators-calculators,Generators & Calculators,8330,"Calculators, converters and single-purpose generators.",https://earlylore.com/categories/generators-calculators
+Utilities,system-utilities,System Utilities,2429,"Cleaners, monitors, clipboard and OS utilities.",https://earlylore.com/categories/system-utilities
+Utilities,browser-customization,Browser Themes & New Tabs,313,"Browser themes, new-tab pages and visual customization.",https://earlylore.com/categories/browser-customization
+Utilities,browser-utilities,Browser Utility Extensions,693,General-purpose browser extensions not tied to another category.,https://earlylore.com/categories/browser-utilities
+Utilities,links-qr,Link Shorteners & QR Codes,2383,"Short links, link management and QR codes.",https://earlylore.com/categories/links-qr
+Utilities,keyboards-input,Keyboards & Input,501,"Keyboards, input methods and text expansion.",https://earlylore.com/categories/keyboards-input
+Utilities,phone-telecom,Phone Numbers & Telecom,1164,"Virtual numbers, calling, SMS receiving and telecom services.",https://earlylore.com/categories/phone-telecom
+Utilities,weather-time,"Weather, Clocks & Time Zones",1172,"Weather, clocks, timers and time zone tools.",https://earlylore.com/categories/weather-time
+Design,graphic-design,Graphic & Brand Design,4577,"Social graphics, posters, logos and brand kits.",https://earlylore.com/categories/graphic-design
+Design,ui-ux,UI/UX Design & Prototyping,1893,"Interface design, prototypes, design systems and AI UI generation.",https://earlylore.com/categories/ui-ux
+Design,ai-image,AI Image Generation,2552,Text-to-image and general AI image generators.,https://earlylore.com/categories/ai-image
+Design,photo-editing,Photo Editing & Enhancement,3798,"Retouching, background removal, upscaling, object removal and batch editing.",https://earlylore.com/categories/photo-editing
+Design,ai-portraits,AI Portraits & Photo Effects,1311,"AI headshots, avatars, stylized portraits, face swap and photo animation.",https://earlylore.com/categories/ai-portraits
+Design,3d-ar,3D & AR/VR,1369,"3D modeling, scanning, rendering and AR/VR content.",https://earlylore.com/categories/3d-ar
+Design,interior-space,Interior & Space Design,926,"Room redesign, floor plans and interior visualization.",https://earlylore.com/categories/interior-space
+Design,presentations,Presentations,861,Slide creation and presenting.,https://earlylore.com/categories/presentations
+Design,design-assets,Design Assets & Mockups,3439,"Icons, fonts, templates, stock media and mockups.",https://earlylore.com/categories/design-assets
+Industry Software,real-estate,Real Estate,2951,"Software and services for agents, property managers and landlords.",https://earlylore.com/categories/real-estate
+Industry Software,construction,Construction & Engineering,1726,"Software and services for contractors, trades, architects and engineers.",https://earlylore.com/categories/construction
+Industry Software,logistics,Logistics & Fleet,1627,"Freight, delivery, dispatch and fleet operations.",https://earlylore.com/categories/logistics
+Industry Software,manufacturing,Manufacturing & Industrial,1318,"Factories, industrial operations and product information.",https://earlylore.com/categories/manufacturing
+Industry Software,automotive,Automotive Businesses,543,"Dealerships, repair shops and automotive businesses.",https://earlylore.com/categories/automotive
+Industry Software,restaurants,Restaurants & Food Service,1660,"Restaurant ordering, reservations and kitchen operations.",https://earlylore.com/categories/restaurants
+Industry Software,retail-stores,Brick-and-Mortar Retail,757,"POS, store inventory and retail operations.",https://earlylore.com/categories/retail-stores
+Industry Software,hospitality,Hotels & Vacation Rentals,867,"Hotels, short-term rentals and hospitality operations.",https://earlylore.com/categories/hospitality
+Industry Software,healthcare-providers,Healthcare & Care Providers,2080,"Clinics, therapists, care agencies and practitioners running their practice.",https://earlylore.com/categories/healthcare-providers
+Industry Software,life-sciences,Life Sciences & Biotech,392,"Lab software, drug discovery and biotech research.",https://earlylore.com/categories/life-sciences
+Industry Software,wellness-business,"Fitness, Beauty & Wellness Businesses",857,"Gyms, personal trainers, salons, spas and wellness studios.",https://earlylore.com/categories/wellness-business
+Industry Software,home-services,Home & Local Services,1460,"Cleaning, repair, landscaping and other local service businesses.",https://earlylore.com/categories/home-services
+Industry Software,education-providers,Schools & Training Providers,819,"Running schools, tutoring centers and training providers.",https://earlylore.com/categories/education-providers
+Industry Software,agriculture,Agriculture,322,Farms and agricultural operations.,https://earlylore.com/categories/agriculture
+Industry Software,nonprofit-religion,Nonprofits & Religious Organizations,569,"Fundraising, donors and operations for nonprofits and churches.",https://earlylore.com/categories/nonprofit-religion
+Industry Software,government,Government & Public Safety,656,"Public sector, civic services and public safety.",https://earlylore.com/categories/government
+Industry Software,energy,Energy & Environment,704,"Energy, utilities, carbon and environmental operations.",https://earlylore.com/categories/energy
+Lifestyle,dating,Dating & Relationships,2100,"Dating apps, relationship help and dating messages.",https://earlylore.com/categories/dating
+Lifestyle,family-parenting,Family & Parenting,1391,"Parenting, baby care and family organization.",https://earlylore.com/categories/family-parenting
+Lifestyle,pets,Pets,1017,"Pet care, pet health and pet services for owners.",https://earlylore.com/categories/pets
+Lifestyle,food-cooking,Food & Cooking,2825,"Recipes, meal planning and cooking.",https://earlylore.com/categories/food-cooking
+Lifestyle,home-living,Home & Household,1689,"Chores, home maintenance, gardening and household management.",https://earlylore.com/categories/home-living
+Lifestyle,fashion-beauty,Fashion & Beauty,1586,"Outfits, styling, makeup and beauty.",https://earlylore.com/categories/fashion-beauty
+Lifestyle,spirituality,Astrology & Spirituality,2333,"Astrology, tarot, religion and spiritual practice.",https://earlylore.com/categories/spirituality
+Lifestyle,hobbies,Hobbies & Crafts,3234,"Photography, crafts, collecting, outdoors and other hobbies.",https://earlylore.com/categories/hobbies
+Lifestyle,gifts-celebrations,"Gifts, Weddings & Celebrations",2446,"Gift ideas, wishlists, greeting cards, weddings and parties.",https://earlylore.com/categories/gifts-celebrations
+Hardware & Physical Products,consumer-electronics,Consumer Electronics & Accessories,3120,Devices and accessories.,https://earlylore.com/categories/consumer-electronics
+Hardware & Physical Products,smart-home-iot,Smart Home & IoT,724,"Smart home devices, sensors and IoT.",https://earlylore.com/categories/smart-home-iot
+Hardware & Physical Products,wearables,Wearables,386,"Watches, rings and wearable devices.",https://earlylore.com/categories/wearables
+Hardware & Physical Products,maker,3D Printing & Maker Hardware,429,"3D printers, dev boards and maker hardware.",https://earlylore.com/categories/maker
+Hardware & Physical Products,robotics-drones,Robotics & Drones,402,"Robots, drones and autonomous machines.",https://earlylore.com/categories/robotics-drones
+Hardware & Physical Products,consumer-goods,Consumer Goods Brands,12956,"Food, supplements, apparel and other physical product brands.",https://earlylore.com/categories/consumer-goods
+Education,language-learning,Language Learning,2635,Learning and practicing foreign languages.,https://earlylore.com/categories/language-learning
+Education,test-prep,Test Preparation,1772,Exam and certification preparation.,https://earlylore.com/categories/test-prep
+Education,tutoring,AI Tutoring & Homework Help,1426,"Homework help, problem solving and AI tutors.",https://earlylore.com/categories/tutoring
+Education,coding-education,Coding Education,2557,Learning to code and technical courses.,https://earlylore.com/categories/coding-education
+Education,kids-learning,Kids Learning,899,Early learning and learning apps for children.,https://earlylore.com/categories/kids-learning
+Education,study-tools,Study Tools,2499,"Flashcards, study notes and revision.",https://earlylore.com/categories/study-tools
+Education,teaching,Teacher & Classroom Tools,1356,"Lesson planning, classroom management and teaching content.",https://earlylore.com/categories/teaching
+Education,online-courses,Skills & Online Courses,3662,Professional skills and online course libraries.,https://earlylore.com/categories/online-courses
+Commerce & Retail,storefronts,Online Store Builders,1139,Ecommerce platforms and storefront builders.,https://earlylore.com/categories/storefronts
+Commerce & Retail,ecommerce-ops,Store Operations & Growth,1595,"Catalog, pricing, merchandising and conversion tools for online stores.",https://earlylore.com/categories/ecommerce-ops
+Commerce & Retail,marketplace-sellers,Marketplace Seller Tools,1032,"Tools for Amazon, Etsy, eBay, TikTok Shop and resale-platform sellers.",https://earlylore.com/categories/marketplace-sellers
+Commerce & Retail,sourcing-fulfillment,"Sourcing, Dropshipping & Fulfillment",678,"Suppliers, white label, print on demand, dropshipping and fulfillment.",https://earlylore.com/categories/sourcing-fulfillment
+Commerce & Retail,marketplaces,Marketplaces & Classifieds,6929,"Marketplaces for goods, services, domains, websites and businesses.",https://earlylore.com/categories/marketplaces
+Commerce & Retail,shopping-deals,Shopping Assistants & Deals,4429,"Price comparison, coupons, cashback and shopping assistants.",https://earlylore.com/categories/shopping-deals
+Commerce & Retail,social-commerce,Social & Live Commerce,307,"Selling inside communities, chats and live streams.",https://earlylore.com/categories/social-commerce
+Video & Audio,ai-video,AI Video Generation,2775,"Text-to-video, image-to-video and AI films.",https://earlylore.com/categories/ai-video
+Video & Audio,video-editing,Video Editing,1922,Editing and post-production.,https://earlylore.com/categories/video-editing
+Video & Audio,short-video,Short-Form Video & Clipping,1331,"Short-form generation, long-to-short clipping and faceless channels.",https://earlylore.com/categories/short-video
+Video & Audio,avatars,AI Avatars & Talking Heads,235,"Talking-avatar videos, digital humans and AI presenters.",https://earlylore.com/categories/avatars
+Video & Audio,subtitles-dubbing,"Subtitles, Translation & Dubbing",598,"Captions, video translation and dubbing.",https://earlylore.com/categories/subtitles-dubbing
+Video & Audio,voice-tts,Text-to-Speech & Voice Cloning,819,"TTS, voice cloning and voice changers.",https://earlylore.com/categories/voice-tts
+Video & Audio,music-audio,Music Creation & Audio Production,2534,"AI music, composition, mixing, stem separation and audio cleanup.",https://earlylore.com/categories/music-audio
+Video & Audio,podcasts,Podcast Production,750,"Recording, editing and distributing podcasts.",https://earlylore.com/categories/podcasts
+Video & Audio,transcription,Transcription & Dictation,1640,"Speech to text, recording transcription and voice typing.",https://earlylore.com/categories/transcription
+Video & Audio,screen-recording,Screen Recording & Demos,982,"Screen capture, product demos and tutorial videos.",https://earlylore.com/categories/screen-recording
+Video & Audio,creative-suites,All-in-One AI Media Suites,1540,"One platform generating images, video and audio with many models.",https://earlylore.com/categories/creative-suites
+Video & Audio,streaming-tools,Live Streaming Tools,492,"Streaming software, overlays and live engagement.",https://earlylore.com/categories/streaming-tools
+Video & Audio,video-hosting,Video Hosting & Players,449,"Video hosting, players and video delivery.",https://earlylore.com/categories/video-hosting
+HR & Careers,recruiting,Recruiting & Hiring,3011,"Applicant tracking, sourcing and candidate screening.",https://earlylore.com/categories/recruiting
+HR & Careers,job-search,Job Search & Resumes,7440,"Resume builders, job applications and job search.",https://earlylore.com/categories/job-search
+HR & Careers,interview-prep,Interview Preparation,1325,Mock interviews and interview coaching.,https://earlylore.com/categories/interview-prep
+HR & Careers,hris-payroll,HRIS & Payroll,1222,"HR records, payroll, time and attendance.",https://earlylore.com/categories/hris-payroll
+HR & Careers,employee-experience,Employee Engagement & Learning,1600,"Onboarding, training, performance and feedback.",https://earlylore.com/categories/employee-experience
+HR & Careers,freelance,Freelance & Talent Marketplaces,949,Freelance platforms and tools for winning freelance work.,https://earlylore.com/categories/freelance
+AI Models & Agents,ai-assistants,General AI Assistants,3437,General-purpose chatbots and multi-purpose assistants for everyday questions and tasks. Not: assistants built for one job (see that job's category).,https://earlylore.com/categories/ai-assistants
+AI Models & Agents,llm-apis,Model APIs & Gateways,1056,"APIs that serve AI models, and routers or gateways that unify access to many models.",https://earlylore.com/categories/llm-apis
+AI Models & Agents,agent-platforms,Agent Builders & Platforms,2350,"Platforms to build, orchestrate and deploy AI agents or agentic workflows for any use.",https://earlylore.com/categories/agent-platforms
+AI Models & Agents,agent-tooling,Agent Tools & MCP Servers,2075,"Capabilities plugged into agents: MCP servers, agent browsers, sandboxes, memory and tool APIs.",https://earlylore.com/categories/agent-tooling
+AI Models & Agents,voice-agents,Voice Agents,1258,"AI that holds phone or voice conversations: AI receptionists, call agents, voice-bot platforms.",https://earlylore.com/categories/voice-agents
+AI Models & Agents,llm-ops,"Prompts, Evals & LLM Observability",2042,"Prompt management, model evaluation, LLM monitoring, guardrails and AI governance.",https://earlylore.com/categories/llm-ops
+AI Models & Agents,ai-data,Training Data & Labeling,333,"Data labeling, synthetic data and datasets for training or evaluating models.",https://earlylore.com/categories/ai-data
+AI Models & Agents,model-infra,Model Training & Inference Infrastructure,739,"GPU compute, fine-tuning, model hosting and inference serving.",https://earlylore.com/categories/model-infra
+AI Models & Agents,ai-search,AI Search & Answer Engines,1514,AI search engines and question answering over the web or a document collection.,https://earlylore.com/categories/ai-search
+Creator Economy & Community,creator-stores,Creator Storefronts & Link-in-Bio,1384,"Link-in-bio pages and stores selling digital products, bookings and courses.",https://earlylore.com/categories/creator-stores
+Creator Economy & Community,memberships,Paid Communities & Memberships,331,"Paid communities, memberships and subscriptions to a creator.",https://earlylore.com/categories/memberships
+Creator Economy & Community,courses-coaching,Course & Coaching Platforms,892,"Hosting and selling courses, cohorts and coaching programs.",https://earlylore.com/categories/courses-coaching
+Creator Economy & Community,newsletters-blogs,Newsletter & Blogging Platforms,1324,Publishing platforms for newsletters and blogs.,https://earlylore.com/categories/newsletters-blogs
+Creator Economy & Community,fan-engagement,Fan Engagement & Monetization,482,"Tips, fan messaging and fan monetization.",https://earlylore.com/categories/fan-engagement
+Creator Economy & Community,community-tools,Community Management Tools,1034,"Tools for running Discord, Telegram, Slack or forum communities.",https://earlylore.com/categories/community-tools
+Creator Economy & Community,social-networks,Social Networks & Apps,7954,Social networks and social apps.,https://earlylore.com/categories/social-networks
+Creator Economy & Community,founder-communities,Startup & Founder Communities,1033,"Co-founder matching, build-in-public and founder networks.",https://earlylore.com/categories/founder-communities
+Games,casual-puzzle,Casual & Puzzle,3120,"Casual, puzzle and brain games.",https://earlylore.com/categories/casual-puzzle
+Games,action-adventure,Action & Adventure,967,"Action, shooter and adventure games.",https://earlylore.com/categories/action-adventure
+Games,strategy-simulation,Strategy & Simulation,1107,"Strategy, tycoon, management and simulation games.",https://earlylore.com/categories/strategy-simulation
+Games,rpg,Role-Playing,448,Role-playing games.,https://earlylore.com/categories/rpg
+Games,board-card,Board & Card,1109,"Board, card and tabletop games.",https://earlylore.com/categories/board-card
+Games,word-trivia,Word & Trivia,2237,"Word games, trivia and party games.",https://earlylore.com/categories/word-trivia
+Games,sports-racing,Sports & Racing,359,Sports and racing games.,https://earlylore.com/categories/sports-racing
+Games,game-tools,"Game Discovery, Guides & Tools",4885,"Finding games, guides, mods, trackers and player tools.",https://earlylore.com/categories/game-tools
+Health & Wellness,fitness,Fitness & Workouts,3307,Workout plans and training tracking for individuals.,https://earlylore.com/categories/fitness
+Health & Wellness,nutrition,Nutrition & Diet,1717,"Food logging, calories and diet guidance.",https://earlylore.com/categories/nutrition
+Health & Wellness,mental-health,Mental Health & Meditation,3469,"Meditation, mood, journaling and mental health support.",https://earlylore.com/categories/mental-health
+Health & Wellness,sleep,Sleep,405,Sleep tracking and sleep aids.,https://earlylore.com/categories/sleep
+Health & Wellness,body-appearance,Body & Appearance,574,"Height, posture, skin, face and appearance improvement.",https://earlylore.com/categories/body-appearance
+Health & Wellness,womens-health,Women's Health,338,"Cycle, fertility, pregnancy and menopause.",https://earlylore.com/categories/womens-health
+Health & Wellness,medical-ai,Symptom Checkers & Medical AI,1692,"Symptom checks, report interpretation and patient-side medical help.",https://earlylore.com/categories/medical-ai
+Health & Wellness,care-aging,Caregiving & Aging,522,"Caregiving, elder care and chronic condition management for families.",https://earlylore.com/categories/care-aging
+Health & Wellness,addiction-recovery,Addiction & Quitting,285,"Quitting smoking, drinking, porn or gambling.",https://earlylore.com/categories/addiction-recovery
+Data & Analytics,web-analytics,Website Analytics,643,Website traffic and visitor analytics.,https://earlylore.com/categories/web-analytics
+Data & Analytics,product-analytics,Product Analytics & Session Replay,487,"In-product behavior, funnels, retention and session replay.",https://earlylore.com/categories/product-analytics
+Data & Analytics,bi-dashboards,BI & Dashboards,2101,"Business intelligence, KPI dashboards and reporting.",https://earlylore.com/categories/bi-dashboards
+Data & Analytics,data-pipelines,Data Integration & Warehousing,673,"ETL, data sync, warehouses and reverse ETL.",https://earlylore.com/categories/data-pipelines
+Data & Analytics,web-scraping,Web Scraping & Extraction,1059,"Scrapers, crawlers, page-change monitoring and structured extraction.",https://earlylore.com/categories/web-scraping
+Data & Analytics,spreadsheets,Spreadsheets & Data Analysis AI,945,Spreadsheet tools and asking questions of data in natural language.,https://earlylore.com/categories/spreadsheets
+Data & Analytics,market-intelligence,Market & Competitive Intelligence,4044,"Market trends, competitor tracking, product research and industry intelligence.",https://earlylore.com/categories/market-intelligence
+Data & Analytics,data-providers,Data APIs & Datasets,1087,Third-party data feeds and datasets. Not: B2B contact data for sales (see Lead Databases & Enrichment).,https://earlylore.com/categories/data-providers
+Data & Analytics,user-research,User Research & Testing,1206,"User interviews, usability testing, panels and insight repositories.",https://earlylore.com/categories/user-research
+Writing & Documents,ai-writing,AI Writing Assistants,2718,"Draft, rewrite and expand text for general writing.",https://earlylore.com/categories/ai-writing
+Writing & Documents,ai-detection,AI Detection & Humanizers,639,Detect AI-written text or rewrite it to read as human.,https://earlylore.com/categories/ai-detection
+Writing & Documents,grammar-editing,Grammar & Proofreading,459,"Grammar checks, proofreading and style editing.",https://earlylore.com/categories/grammar-editing
+Writing & Documents,translation,Translation & Localization,1271,"Translate text, documents, websites and apps.",https://earlylore.com/categories/translation
+Writing & Documents,pdf-documents,PDF & Document Tools,3297,"Edit, convert, sign, chat with and process PDFs and documents.",https://earlylore.com/categories/pdf-documents
+Writing & Documents,books-publishing,Books & Self-Publishing,771,"Writing books, ebooks, KDP and low-content publishing.",https://earlylore.com/categories/books-publishing
+Writing & Documents,creative-writing,Fiction & Script Writing,893,"Fiction, screenplays and story development.",https://earlylore.com/categories/creative-writing
+Writing & Documents,academic,Academic Writing & Research,1131,"Papers, literature review, citations and academic search.",https://earlylore.com/categories/academic
+Writing & Documents,markdown-editors,Text & Markdown Editors,558,Plain-text and Markdown editors and converters.,https://earlylore.com/categories/markdown-editors
+Business Operations,workflow-automation,Workflow Automation & Integrations,1503,Cross-app automation and integration platforms.,https://earlylore.com/categories/workflow-automation
+Business Operations,internal-tools,Internal Tools & No-Code Databases,675,Low-code internal apps and online databases.,https://earlylore.com/categories/internal-tools
+Business Operations,forms-surveys,Forms & Surveys,1897,"Forms, surveys and data collection.",https://earlylore.com/categories/forms-surveys
+Business Operations,document-workflows,Document Generation & Approvals,1148,"Document automation, approvals and business document workflows.",https://earlylore.com/categories/document-workflows
+Business Operations,events,Event Management & Ticketing,2912,"Event registration, ticketing and event operations.",https://earlylore.com/categories/events
+Business Operations,erp-inventory,"ERP, Inventory & Procurement",1383,"ERP, inventory, purchasing and supply chain.",https://earlylore.com/categories/erp-inventory
+Business Operations,agency-ops,Agency & Freelancer Operations,1363,"Client portals, projects, invoicing and delivery for agencies, consultants and freelancers.",https://earlylore.com/categories/agency-ops
+Business Operations,it-management,IT & SaaS Management,504,"Devices, software licenses, SaaS spend and IT assets.",https://earlylore.com/categories/it-management
+Business Operations,company-admin,Company Formation & Admin,330,"Incorporation, registered agents, virtual addresses and company admin.",https://earlylore.com/categories/company-admin
+Travel & Transportation,trip-planning,Trip Planning,2933,Itineraries and travel planning.,https://earlylore.com/categories/trip-planning
+Travel & Transportation,travel-booking,Travel Booking & Deals,2348,"Flights, hotels and travel deals.",https://earlylore.com/categories/travel-booking
+Travel & Transportation,navigation,"Maps, Navigation & Transit",1076,"Maps, routing and public transit.",https://earlylore.com/categories/navigation
+Travel & Transportation,travel-tools,Travel Tools,1174,"Visas, eSIMs, packing, currency and other trip helpers.",https://earlylore.com/categories/travel-tools
+Travel & Transportation,vehicles,Vehicles & Mobility,2030,"Car ownership, EV charging, parking and personal mobility for individuals.",https://earlylore.com/categories/vehicles
+Security & Privacy,passwords-identity,Passwords & Identity,843,"Password managers, SSO and identity security.",https://earlylore.com/categories/passwords-identity
+Security & Privacy,vpn-privacy,VPN & Privacy Protection,2096,"VPNs, tracker and ad blocking, private browsing and data removal.",https://earlylore.com/categories/vpn-privacy
+Security & Privacy,app-security,Application & Cloud Security,1839,"Vulnerability scanning, code security, secrets and cloud posture.",https://earlylore.com/categories/app-security
+Security & Privacy,security-ops,Security Operations & Threat Detection,1052,"SOC tooling, threat detection, incident response and security monitoring.",https://earlylore.com/categories/security-ops
+Security & Privacy,fraud-verification,Fraud Prevention & Verification,1511,"Fraud and bot detection, identity verification and abuse prevention.",https://earlylore.com/categories/fraud-verification
+Security & Privacy,backup-recovery,Backup & Data Recovery,373,"Backups, data recovery and disaster recovery.",https://earlylore.com/categories/backup-recovery
+Security & Privacy,personal-safety,Personal & Family Safety,832,"Location sharing, safety alerts, anti-theft trackers and family protection.",https://earlylore.com/categories/personal-safety
+Sales,crm,CRM,1940,"Customer records, pipelines and deal management.",https://earlylore.com/categories/crm
+Sales,lead-data,Lead Databases & Enrichment,2002,"B2B contact databases, email and phone finders, enrichment and verification.",https://earlylore.com/categories/lead-data
+Sales,cold-email,Cold Email & Deliverability,599,"Cold email sequences, inbox infrastructure, warmup and deliverability.",https://earlylore.com/categories/cold-email
+Sales,linkedin-outreach,LinkedIn Outreach & Social Selling,263,LinkedIn automation and social selling.,https://earlylore.com/categories/linkedin-outreach
+Sales,ai-sdr,AI SDR Agents,651,"Autonomous agents that research, prospect, reach out and book meetings across channels.",https://earlylore.com/categories/ai-sdr
+Sales,conversation-setting,DM & Conversation Setting,420,"Turn social DMs, SMS or WhatsApp conversations into booked calls or sales.",https://earlylore.com/categories/conversation-setting
+Sales,sales-calls,Dialers & Conversation Intelligence,287,"Dialers, call recording and sales call analysis.",https://earlylore.com/categories/sales-calls
+Sales,proposals-esign,"Proposals, Quotes & E-signature",875,"Proposals, quotes, contracts sent for signature.",https://earlylore.com/categories/proposals-esign
+Sales,buyer-signals,Buyer Intent & Lead Listening,587,"Find buying intent in communities, groups, social posts and web signals.",https://earlylore.com/categories/buyer-signals
+Sales,sales-enablement,Sales Enablement & Coaching,638,"Sales content, playbooks, training and rep coaching.",https://earlylore.com/categories/sales-enablement
+Customer Service & Success,helpdesk,Helpdesk & Ticketing,437,Ticketing systems and agent workspaces.,https://earlylore.com/categories/helpdesk
+Customer Service & Success,ai-support,AI Support Agents,1891,AI agents and chatbots that answer customers.,https://earlylore.com/categories/ai-support
+Customer Service & Success,live-chat,Live Chat & Messaging Inbox,603,"Website chat and shared inboxes for WhatsApp, Instagram and other channels.",https://earlylore.com/categories/live-chat
+Customer Service & Success,feedback-roadmap,Feedback & Roadmaps,794,"Feature requests, voting, changelogs and public roadmaps.",https://earlylore.com/categories/feedback-roadmap
+Customer Service & Success,reviews-reputation,Reviews & Reputation,1132,"Review collection, review widgets and reputation monitoring.",https://earlylore.com/categories/reviews-reputation
+Customer Service & Success,knowledge-base,Help Centers & Knowledge Bases,258,"Help docs, FAQs and self-service portals.",https://earlylore.com/categories/knowledge-base
+Customer Service & Success,onboarding-retention,Onboarding & Retention,431,"Product tours, churn prevention and customer health.",https://earlylore.com/categories/onboarding-retention
+Customer Service & Success,managed-support,Managed Support Services,336,Human teams that run customer support or IT help for a company.,https://earlylore.com/categories/managed-support
+Legal & Compliance,legal-docs,Legal Documents & Contracts,1023,"Contract drafting, review and management.",https://earlylore.com/categories/legal-docs
+Legal & Compliance,compliance,Compliance Automation,1410,"SOC 2, ISO and regulatory compliance programs.",https://earlylore.com/categories/compliance
+Legal & Compliance,privacy-compliance,Privacy & Cookie Compliance,349,"GDPR, consent and privacy policies.",https://earlylore.com/categories/privacy-compliance
+Legal & Compliance,ip-brand-protection,IP & Brand Protection,323,"Counterfeit and infringement monitoring, takedowns and trademarks.",https://earlylore.com/categories/ip-brand-protection
+Legal & Compliance,legal-practice,Law Firms & Legal Services,1193,Law practice software and online legal services.,https://earlylore.com/categories/legal-practice
+Legal & Compliance,immigration,Immigration & Visas,457,Visa applications and immigration help.,https://earlylore.com/categories/immigration

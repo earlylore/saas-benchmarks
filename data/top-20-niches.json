@@ -1,0 +1,225 @@
+{
+  "synced_at": "2026-11-20T15:10:40Z",
+  "niches": [
+    {
+      "slug": "ai-coding",
+      "name": "AI Coding Assistants & Editors",
+      "group": "Software Development",
+      "products_catalogued": 2248,
+      "websites_with_traffic": 2237,
+      "combined_latest_monthly_visits": "98.7M",
+      "median_monthly_entry_price": "$16.1",
+      "revenue_evidence_products": 28,
+      "url": "https://earlylore.com/categories/ai-coding"
+    },
+    {
+      "slug": "app-builders",
+      "name": "AI App Builders & Low-Code",
+      "group": "Software Development",
+      "products_catalogued": 1509,
+      "websites_with_traffic": 1501,
+      "combined_latest_monthly_visits": "102M",
+      "median_monthly_entry_price": "$20",
+      "revenue_evidence_products": 43,
+      "url": "https://earlylore.com/categories/app-builders"
+    },
+    {
+      "slug": "agent-platforms",
+      "name": "Agent Builders & Platforms",
+      "group": "AI Models & Agents",
+      "products_catalogued": 2350,
+      "websites_with_traffic": 2335,
+      "combined_latest_monthly_visits": "49.1M",
+      "median_monthly_entry_price": "$25",
+      "revenue_evidence_products": 50,
+      "url": "https://earlylore.com/categories/agent-platforms"
+    },
+    {
+      "slug": "agent-tooling",
+      "name": "Agent Tools & MCP Servers",
+      "group": "AI Models & Agents",
+      "products_catalogued": 2075,
+      "websites_with_traffic": 2059,
+      "combined_latest_monthly_visits": "25.5M",
+      "median_monthly_entry_price": "$19",
+      "revenue_evidence_products": 17,
+      "url": "https://earlylore.com/categories/agent-tooling"
+    },
+    {
+      "slug": "auth-billing",
+      "name": "Auth, Payments & Billing Infrastructure",
+      "group": "Software Development",
+      "products_catalogued": 555,
+      "websites_with_traffic": 554,
+      "combined_latest_monthly_visits": "84.2M",
+      "median_monthly_entry_price": "$29",
+      "revenue_evidence_products": 13,
+      "url": "https://earlylore.com/categories/auth-billing"
+    },
+    {
+      "slug": "backend",
+      "name": "Backend, Databases & Storage",
+      "group": "Software Development",
+      "products_catalogued": 1067,
+      "websites_with_traffic": 1064,
+      "combined_latest_monthly_visits": "60.3M",
+      "median_monthly_entry_price": "$19",
+      "revenue_evidence_products": 20,
+      "url": "https://earlylore.com/categories/backend"
+    },
+    {
+      "slug": "domains-email-infra",
+      "name": "Domains, DNS & Email Delivery",
+      "group": "Software Development",
+      "products_catalogued": 899,
+      "websites_with_traffic": 896,
+      "combined_latest_monthly_visits": "28.5M",
+      "median_monthly_entry_price": "$10",
+      "revenue_evidence_products": 23,
+      "url": "https://earlylore.com/categories/domains-email-infra"
+    },
+    {
+      "slug": "web-scraping",
+      "name": "Web Scraping & Extraction",
+      "group": "Data & Analytics",
+      "products_catalogued": 1059,
+      "websites_with_traffic": 1054,
+      "combined_latest_monthly_visits": "53.1M",
+      "median_monthly_entry_price": "$16.78",
+      "revenue_evidence_products": 52,
+      "url": "https://earlylore.com/categories/web-scraping"
+    },
+    {
+      "slug": "bi-dashboards",
+      "name": "BI & Dashboards",
+      "group": "Data & Analytics",
+      "products_catalogued": 2101,
+      "websites_with_traffic": 2092,
+      "combined_latest_monthly_visits": "23.4M",
+      "median_monthly_entry_price": "$25",
+      "revenue_evidence_products": 44,
+      "url": "https://earlylore.com/categories/bi-dashboards"
+    },
+    {
+      "slug": "web-analytics",
+      "name": "Website Analytics",
+      "group": "Data & Analytics",
+      "products_catalogued": 643,
+      "websites_with_traffic": 635,
+      "combined_latest_monthly_visits": "3.4M",
+      "median_monthly_entry_price": "$10.89",
+      "revenue_evidence_products": 36,
+      "url": "https://earlylore.com/categories/web-analytics"
+    },
+    {
+      "slug": "product-analytics",
+      "name": "Product Analytics & Session Replay",
+      "group": "Data & Analytics",
+      "products_catalogued": 487,
+      "websites_with_traffic": 487,
+      "combined_latest_monthly_visits": "11.3M",
+      "median_monthly_entry_price": "$31.32",
+      "revenue_evidence_products": 14,
+      "url": "https://earlylore.com/categories/product-analytics"
+    },
+    {
+      "slug": "monitoring",
+      "name": "Monitoring & Observability",
+      "group": "Software Development",
+      "products_catalogued": 2200,
+      "websites_with_traffic": 2187,
+      "combined_latest_monthly_visits": "45.9M",
+      "median_monthly_entry_price": "$14.99",
+      "revenue_evidence_products": 52,
+      "url": "https://earlylore.com/categories/monitoring"
+    },
+    {
+      "slug": "lead-data",
+      "name": "Lead Databases & Enrichment",
+      "group": "Sales",
+      "products_catalogued": 2002,
+      "websites_with_traffic": 1981,
+      "combined_latest_monthly_visits": "65.1M",
+      "median_monthly_entry_price": "$29.07",
+      "revenue_evidence_products": 100,
+      "url": "https://earlylore.com/categories/lead-data"
+    },
+    {
+      "slug": "ai-sdr",
+      "name": "AI SDR Agents",
+      "group": "Sales",
+      "products_catalogued": 651,
+      "websites_with_traffic": 647,
+      "combined_latest_monthly_visits": "11.3M",
+      "median_monthly_entry_price": "$69",
+      "revenue_evidence_products": 33,
+      "url": "https://earlylore.com/categories/ai-sdr"
+    },
+    {
+      "slug": "voice-tts",
+      "name": "Text-to-Speech & Voice Cloning",
+      "group": "Video & Audio",
+      "products_catalogued": 819,
+      "websites_with_traffic": 815,
+      "combined_latest_monthly_visits": "94.1M",
+      "median_monthly_entry_price": "$9.9",
+      "revenue_evidence_products": 26,
+      "url": "https://earlylore.com/categories/voice-tts"
+    },
+    {
+      "slug": "ai-video",
+      "name": "AI Video Generation",
+      "group": "Video & Audio",
+      "products_catalogued": 2775,
+      "websites_with_traffic": 2734,
+      "combined_latest_monthly_visits": "113.9M",
+      "median_monthly_entry_price": "$11.99",
+      "revenue_evidence_products": 46,
+      "url": "https://earlylore.com/categories/ai-video"
+    },
+    {
+      "slug": "ai-support",
+      "name": "AI Support Agents",
+      "group": "Customer Service & Success",
+      "products_catalogued": 1891,
+      "websites_with_traffic": 1878,
+      "combined_latest_monthly_visits": "12.8M",
+      "median_monthly_entry_price": "$29",
+      "revenue_evidence_products": 47,
+      "url": "https://earlylore.com/categories/ai-support"
+    },
+    {
+      "slug": "testing-qa",
+      "name": "Testing & Code Quality",
+      "group": "Software Development",
+      "products_catalogued": 2291,
+      "websites_with_traffic": 2284,
+      "combined_latest_monthly_visits": "21.4M",
+      "median_monthly_entry_price": "$20",
+      "revenue_evidence_products": 42,
+      "url": "https://earlylore.com/categories/testing-qa"
+    },
+    {
+      "slug": "conversion",
+      "name": "Conversion Optimization & Social Proof",
+      "group": "Marketing",
+      "products_catalogued": 1241,
+      "websites_with_traffic": 1237,
+      "combined_latest_monthly_visits": "10.7M",
+      "median_monthly_entry_price": "$19",
+      "revenue_evidence_products": 53,
+      "url": "https://earlylore.com/categories/conversion"
+    },
+    {
+      "slug": "market-intelligence",
+      "name": "Market & Competitive Intelligence",
+      "group": "Data & Analytics",
+      "products_catalogued": 4044,
+      "websites_with_traffic": 4028,
+      "combined_latest_monthly_visits": "145.5M",
+      "median_monthly_entry_price": "$25",
+      "revenue_evidence_products": 107,
+      "url": "https://earlylore.com/categories/market-intelligence"
+    }
+  ]
+}

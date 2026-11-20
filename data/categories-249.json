@@ -1,0 +1,1990 @@
+{
+  "synced_at": "2026-11-20T15:10:40Z",
+  "count": 248,
+  "categories": [
+    {
+      "group": "Entertainment & Media",
+      "slug": "news-media",
+      "name": "News & Media",
+      "product_count": 8659,
+      "definition": "News sites, publications and media outlets.",
+      "url": "https://earlylore.com/categories/news-media"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "directories",
+      "name": "Directories & Curated Lists",
+      "product_count": 10541,
+      "definition": "Tool directories, curated lists and discovery sites.",
+      "url": "https://earlylore.com/categories/directories"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "video-streaming",
+      "name": "Movies, TV & Streaming",
+      "product_count": 6312,
+      "definition": "Watching, tracking and discovering movies, shows and videos.",
+      "url": "https://earlylore.com/categories/video-streaming"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "music",
+      "name": "Music Listening & Discovery",
+      "product_count": 2669,
+      "definition": "Music streaming, discovery and sharing.",
+      "url": "https://earlylore.com/categories/music"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "reading",
+      "name": "Books & Reading",
+      "product_count": 4222,
+      "definition": "Reading, audiobooks, book discovery and reading trackers.",
+      "url": "https://earlylore.com/categories/reading"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "sports",
+      "name": "Sports & Fantasy",
+      "product_count": 2899,
+      "definition": "Sports news, scores, fantasy sports and fan apps.",
+      "url": "https://earlylore.com/categories/sports"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "gambling",
+      "name": "Betting & Gambling",
+      "product_count": 3675,
+      "definition": "Casinos, sports betting, lotteries and betting tools.",
+      "url": "https://earlylore.com/categories/gambling"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "interactive-stories",
+      "name": "Interactive Fiction & AI Stories",
+      "product_count": 594,
+      "definition": "Interactive stories, choose-your-path fiction and AI storytelling.",
+      "url": "https://earlylore.com/categories/interactive-stories"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "ai-companions",
+      "name": "AI Companions & Character Chat",
+      "product_count": 930,
+      "definition": "AI friends, partners and role-play characters.",
+      "url": "https://earlylore.com/categories/ai-companions"
+    },
+    {
+      "group": "Entertainment & Media",
+      "slug": "fun-quizzes",
+      "name": "Quizzes, Memes & Fun",
+      "product_count": 2756,
+      "definition": "Personality tests, quizzes, memes and novelty fun.",
+      "url": "https://earlylore.com/categories/fun-quizzes"
+    },
+    {
+      "group": "Software Development",
+      "slug": "ai-coding",
+      "name": "AI Coding Assistants & Editors",
+      "product_count": 2248,
+      "definition": "Code completion, coding agents, code review bots and IDEs.",
+      "url": "https://earlylore.com/categories/ai-coding"
+    },
+    {
+      "group": "Software Development",
+      "slug": "app-builders",
+      "name": "AI App Builders & Low-Code",
+      "product_count": 1509,
+      "definition": "Generate working apps from prompts or visual builders (vibe coding). Not: marketing websites (see Website & Landing Page Builders).",
+      "url": "https://earlylore.com/categories/app-builders"
+    },
+    {
+      "group": "Software Development",
+      "slug": "backend",
+      "name": "Backend, Databases & Storage",
+      "product_count": 1067,
+      "definition": "Backend-as-a-service, databases, object storage, queues and caches.",
+      "url": "https://earlylore.com/categories/backend"
+    },
+    {
+      "group": "Software Development",
+      "slug": "auth-billing",
+      "name": "Auth, Payments & Billing Infrastructure",
+      "product_count": 555,
+      "definition": "Developer services for authentication, permissions, payments and subscription billing.",
+      "url": "https://earlylore.com/categories/auth-billing"
+    },
+    {
+      "group": "Software Development",
+      "slug": "apis-integrations",
+      "name": "APIs, Webhooks & Integration Infrastructure",
+      "product_count": 1441,
+      "definition": "Webhooks, API management, unified APIs and wrappers over third-party systems.",
+      "url": "https://earlylore.com/categories/apis-integrations"
+    },
+    {
+      "group": "Software Development",
+      "slug": "hosting-devops",
+      "name": "Hosting, Deployment & DevOps",
+      "product_count": 3678,
+      "definition": "Hosting, CI/CD, infrastructure as code, cloud cost and server management.",
+      "url": "https://earlylore.com/categories/hosting-devops"
+    },
+    {
+      "group": "Software Development",
+      "slug": "domains-email-infra",
+      "name": "Domains, DNS & Email Delivery",
+      "product_count": 899,
+      "definition": "Domain registration and management, DNS, and transactional email sending.",
+      "url": "https://earlylore.com/categories/domains-email-infra"
+    },
+    {
+      "group": "Software Development",
+      "slug": "monitoring",
+      "name": "Monitoring & Observability",
+      "product_count": 2200,
+      "definition": "Uptime, logs, error tracking, APM, status pages and cron monitoring.",
+      "url": "https://earlylore.com/categories/monitoring"
+    },
+    {
+      "group": "Software Development",
+      "slug": "testing-qa",
+      "name": "Testing & Code Quality",
+      "product_count": 2291,
+      "definition": "Automated tests, browser testing, QA and static analysis.",
+      "url": "https://earlylore.com/categories/testing-qa"
+    },
+    {
+      "group": "Software Development",
+      "slug": "mobile-dev",
+      "name": "Mobile App Development & Release",
+      "product_count": 661,
+      "definition": "Mobile build, over-the-air updates, app store release and ASO.",
+      "url": "https://earlylore.com/categories/mobile-dev"
+    },
+    {
+      "group": "Software Development",
+      "slug": "game-dev",
+      "name": "Game Development",
+      "product_count": 660,
+      "definition": "Game engines, asset pipelines, game backends and game-making tools.",
+      "url": "https://earlylore.com/categories/game-dev"
+    },
+    {
+      "group": "Software Development",
+      "slug": "dev-utilities",
+      "name": "Developer Utilities",
+      "product_count": 6510,
+      "definition": "Terminals, snippets, formatters, Git clients and other everyday developer helpers.",
+      "url": "https://earlylore.com/categories/dev-utilities"
+    },
+    {
+      "group": "Software Development",
+      "slug": "templates-components",
+      "name": "Boilerplates, Templates & UI Components",
+      "product_count": 3035,
+      "definition": "SaaS boilerplates, starter kits, UI component libraries and code templates.",
+      "url": "https://earlylore.com/categories/templates-components"
+    },
+    {
+      "group": "Software Development",
+      "slug": "developer-docs",
+      "name": "Developer Docs & Portals",
+      "product_count": 643,
+      "definition": "API documentation, SDK generation and developer portals.",
+      "url": "https://earlylore.com/categories/developer-docs"
+    },
+    {
+      "group": "Software Development",
+      "slug": "web3-dev",
+      "name": "Blockchain Development",
+      "product_count": 909,
+      "definition": "Smart contracts, on-chain data APIs and Web3 developer tools.",
+      "url": "https://earlylore.com/categories/web3-dev"
+    },
+    {
+      "group": "Software Development",
+      "slug": "dev-services",
+      "name": "Software Development Services",
+      "product_count": 4805,
+      "definition": "Agencies, studios and freelancers that build software or AI products for clients.",
+      "url": "https://earlylore.com/categories/dev-services"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "notes-knowledge",
+      "name": "Notes & Knowledge Management",
+      "product_count": 3379,
+      "definition": "Notes, personal knowledge bases and second brains.",
+      "url": "https://earlylore.com/categories/notes-knowledge"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "tasks-projects",
+      "name": "Tasks & Project Management",
+      "product_count": 5589,
+      "definition": "To-dos, projects, kanban and team work tracking.",
+      "url": "https://earlylore.com/categories/tasks-projects"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "calendar-scheduling",
+      "name": "Calendars & Scheduling",
+      "product_count": 2038,
+      "definition": "Calendars, meeting scheduling and appointment booking pages.",
+      "url": "https://earlylore.com/categories/calendar-scheduling"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "meetings",
+      "name": "Meetings & Note-Takers",
+      "product_count": 1439,
+      "definition": "Video meetings and AI meeting notes.",
+      "url": "https://earlylore.com/categories/meetings"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "team-chat",
+      "name": "Team Communication",
+      "product_count": 1117,
+      "definition": "Team chat, async video and internal communication.",
+      "url": "https://earlylore.com/categories/team-chat"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "email-clients",
+      "name": "Email Clients & Inbox",
+      "product_count": 1148,
+      "definition": "Email apps, inbox management and AI email assistants.",
+      "url": "https://earlylore.com/categories/email-clients"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "docs-wiki",
+      "name": "Docs & Wikis",
+      "product_count": 478,
+      "definition": "Collaborative documents and team wikis.",
+      "url": "https://earlylore.com/categories/docs-wiki"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "whiteboards",
+      "name": "Whiteboards & Diagrams",
+      "product_count": 1054,
+      "definition": "Whiteboards, mind maps and diagramming.",
+      "url": "https://earlylore.com/categories/whiteboards"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "personal-assistants",
+      "name": "AI Personal Assistants",
+      "product_count": 1123,
+      "definition": "AI assistants that run errands across a person's apps and messages.",
+      "url": "https://earlylore.com/categories/personal-assistants"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "desktop-management",
+      "name": "Desktop & Window Management",
+      "product_count": 913,
+      "definition": "Launchers, window managers, menu bar and dock tools.",
+      "url": "https://earlylore.com/categories/desktop-management"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "browser-productivity",
+      "name": "Browser & Tab Productivity",
+      "product_count": 1487,
+      "definition": "Tab managers, reading lists and browser workspaces.",
+      "url": "https://earlylore.com/categories/browser-productivity"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "habits-time",
+      "name": "Habits, Focus & Time Tracking",
+      "product_count": 4357,
+      "definition": "Habit trackers, focus timers and time tracking.",
+      "url": "https://earlylore.com/categories/habits-time"
+    },
+    {
+      "group": "Productivity & Collaboration",
+      "slug": "files-storage",
+      "name": "File Storage & Sync",
+      "product_count": 2834,
+      "definition": "Cloud drives, file organization and sync.",
+      "url": "https://earlylore.com/categories/files-storage"
+    },
+    {
+      "group": "Finance",
+      "slug": "accounting",
+      "name": "Accounting & Bookkeeping",
+      "product_count": 1524,
+      "definition": "Business bookkeeping, accounting and financial statements.",
+      "url": "https://earlylore.com/categories/accounting"
+    },
+    {
+      "group": "Finance",
+      "slug": "invoicing-payments",
+      "name": "Invoicing & Payments",
+      "product_count": 3147,
+      "definition": "Invoices, payment links and accepting payments.",
+      "url": "https://earlylore.com/categories/invoicing-payments"
+    },
+    {
+      "group": "Finance",
+      "slug": "revenue-analytics",
+      "name": "Billing & Revenue Analytics",
+      "product_count": 345,
+      "definition": "Subscription billing operations, MRR analytics and revenue dashboards.",
+      "url": "https://earlylore.com/categories/revenue-analytics"
+    },
+    {
+      "group": "Finance",
+      "slug": "spend-expense",
+      "name": "Spend & Expense Management",
+      "product_count": 516,
+      "definition": "Company spend, expenses, cards and subscription tracking.",
+      "url": "https://earlylore.com/categories/spend-expense"
+    },
+    {
+      "group": "Finance",
+      "slug": "tax",
+      "name": "Tax",
+      "product_count": 691,
+      "definition": "Tax filing, calculation and compliance.",
+      "url": "https://earlylore.com/categories/tax"
+    },
+    {
+      "group": "Finance",
+      "slug": "personal-finance",
+      "name": "Personal Finance & Budgeting",
+      "product_count": 4994,
+      "definition": "Personal budgets, net worth and money management.",
+      "url": "https://earlylore.com/categories/personal-finance"
+    },
+    {
+      "group": "Finance",
+      "slug": "investing-trading",
+      "name": "Investing & Trading",
+      "product_count": 4411,
+      "definition": "Stocks, options, prediction markets and trading tools.",
+      "url": "https://earlylore.com/categories/investing-trading"
+    },
+    {
+      "group": "Finance",
+      "slug": "crypto",
+      "name": "Crypto Wallets & Trading",
+      "product_count": 4666,
+      "definition": "Wallets, crypto trading and portfolio tracking.",
+      "url": "https://earlylore.com/categories/crypto"
+    },
+    {
+      "group": "Finance",
+      "slug": "financial-data",
+      "name": "Financial Data & Research",
+      "product_count": 2861,
+      "definition": "Market data, financial research and screeners.",
+      "url": "https://earlylore.com/categories/financial-data"
+    },
+    {
+      "group": "Finance",
+      "slug": "fundraising",
+      "name": "Fundraising & Cap Tables",
+      "product_count": 1236,
+      "definition": "Fundraising, investor relations and cap table management.",
+      "url": "https://earlylore.com/categories/fundraising"
+    },
+    {
+      "group": "Finance",
+      "slug": "banking-insurance",
+      "name": "Banking, Lending & Insurance",
+      "product_count": 2337,
+      "definition": "Digital banking, loans and insurance.",
+      "url": "https://earlylore.com/categories/banking-insurance"
+    },
+    {
+      "group": "Marketing",
+      "slug": "seo",
+      "name": "SEO Tools",
+      "product_count": 3440,
+      "definition": "Keyword research, rank tracking, site audits and SEO analytics.",
+      "url": "https://earlylore.com/categories/seo"
+    },
+    {
+      "group": "Marketing",
+      "slug": "ai-seo-content",
+      "name": "AI SEO Content",
+      "product_count": 909,
+      "definition": "Generate and publish search-optimized content at scale.",
+      "url": "https://earlylore.com/categories/ai-seo-content"
+    },
+    {
+      "group": "Marketing",
+      "slug": "ai-visibility",
+      "name": "AI Search Visibility (GEO/AEO)",
+      "product_count": 1771,
+      "definition": "Track and improve how brands appear in ChatGPT, Perplexity and AI overviews.",
+      "url": "https://earlylore.com/categories/ai-visibility"
+    },
+    {
+      "group": "Marketing",
+      "slug": "backlinks-launch",
+      "name": "Backlinks & Launch Directories",
+      "product_count": 1080,
+      "definition": "Link building, directory submission and product launch distribution.",
+      "url": "https://earlylore.com/categories/backlinks-launch"
+    },
+    {
+      "group": "Marketing",
+      "slug": "social-media-management",
+      "name": "Social Media Management & Scheduling",
+      "product_count": 2350,
+      "definition": "Plan, schedule and publish across social platforms for brands and teams.",
+      "url": "https://earlylore.com/categories/social-media-management"
+    },
+    {
+      "group": "Marketing",
+      "slug": "social-growth",
+      "name": "Social Account Growth",
+      "product_count": 3222,
+      "definition": "Content and audience growth for one person's or brand's X, LinkedIn, Instagram or TikTok account.",
+      "url": "https://earlylore.com/categories/social-growth"
+    },
+    {
+      "group": "Marketing",
+      "slug": "email-marketing",
+      "name": "Email Marketing",
+      "product_count": 1132,
+      "definition": "Email lists, newsletters for marketing, automation and broadcasts.",
+      "url": "https://earlylore.com/categories/email-marketing"
+    },
+    {
+      "group": "Marketing",
+      "slug": "messaging-marketing",
+      "name": "SMS, WhatsApp & Push Marketing",
+      "product_count": 1027,
+      "definition": "Marketing through SMS, WhatsApp, push notifications and chat apps.",
+      "url": "https://earlylore.com/categories/messaging-marketing"
+    },
+    {
+      "group": "Marketing",
+      "slug": "ads-management",
+      "name": "Paid Ads Management",
+      "product_count": 1914,
+      "definition": "Plan, launch and optimize campaigns in Meta, Google, TikTok and other ad platforms.",
+      "url": "https://earlylore.com/categories/ads-management"
+    },
+    {
+      "group": "Marketing",
+      "slug": "ad-creatives",
+      "name": "Ad & Marketing Creatives",
+      "product_count": 1311,
+      "definition": "Generate ad images, ad videos and marketing visuals at scale.",
+      "url": "https://earlylore.com/categories/ad-creatives"
+    },
+    {
+      "group": "Marketing",
+      "slug": "influencer-ugc",
+      "name": "Influencer & UGC Marketing",
+      "product_count": 1111,
+      "definition": "Creator partnerships, UGC sourcing and influencer campaigns.",
+      "url": "https://earlylore.com/categories/influencer-ugc"
+    },
+    {
+      "group": "Marketing",
+      "slug": "affiliate-referral",
+      "name": "Affiliate & Referral Programs",
+      "product_count": 765,
+      "definition": "Affiliate tracking, referral rewards and partner programs.",
+      "url": "https://earlylore.com/categories/affiliate-referral"
+    },
+    {
+      "group": "Marketing",
+      "slug": "websites-landing",
+      "name": "Website & Landing Page Builders",
+      "product_count": 3360,
+      "definition": "No-code websites, landing pages and A/B tests for them.",
+      "url": "https://earlylore.com/categories/websites-landing"
+    },
+    {
+      "group": "Marketing",
+      "slug": "attribution",
+      "name": "Marketing Attribution",
+      "product_count": 583,
+      "definition": "Ad and channel attribution, conversion tracking and marketing analytics.",
+      "url": "https://earlylore.com/categories/attribution"
+    },
+    {
+      "group": "Marketing",
+      "slug": "conversion",
+      "name": "Conversion Optimization & Social Proof",
+      "product_count": 1241,
+      "definition": "Popups, testimonials widgets, personalization and CRO.",
+      "url": "https://earlylore.com/categories/conversion"
+    },
+    {
+      "group": "Marketing",
+      "slug": "pr-outreach",
+      "name": "PR & Media Outreach",
+      "product_count": 363,
+      "definition": "Press outreach, journalist databases and PR distribution.",
+      "url": "https://earlylore.com/categories/pr-outreach"
+    },
+    {
+      "group": "Utilities",
+      "slug": "file-conversion",
+      "name": "File Conversion & Compression",
+      "product_count": 3937,
+      "definition": "Convert, compress and resize files and media.",
+      "url": "https://earlylore.com/categories/file-conversion"
+    },
+    {
+      "group": "Utilities",
+      "slug": "media-downloaders",
+      "name": "Media Downloaders",
+      "product_count": 2489,
+      "definition": "Download videos, audio and files from sites.",
+      "url": "https://earlylore.com/categories/media-downloaders"
+    },
+    {
+      "group": "Utilities",
+      "slug": "generators-calculators",
+      "name": "Generators & Calculators",
+      "product_count": 8330,
+      "definition": "Calculators, converters and single-purpose generators.",
+      "url": "https://earlylore.com/categories/generators-calculators"
+    },
+    {
+      "group": "Utilities",
+      "slug": "system-utilities",
+      "name": "System Utilities",
+      "product_count": 2429,
+      "definition": "Cleaners, monitors, clipboard and OS utilities.",
+      "url": "https://earlylore.com/categories/system-utilities"
+    },
+    {
+      "group": "Utilities",
+      "slug": "browser-customization",
+      "name": "Browser Themes & New Tabs",
+      "product_count": 313,
+      "definition": "Browser themes, new-tab pages and visual customization.",
+      "url": "https://earlylore.com/categories/browser-customization"
+    },
+    {
+      "group": "Utilities",
+      "slug": "browser-utilities",
+      "name": "Browser Utility Extensions",
+      "product_count": 693,
+      "definition": "General-purpose browser extensions not tied to another category.",
+      "url": "https://earlylore.com/categories/browser-utilities"
+    },
+    {
+      "group": "Utilities",
+      "slug": "links-qr",
+      "name": "Link Shorteners & QR Codes",
+      "product_count": 2383,
+      "definition": "Short links, link management and QR codes.",
+      "url": "https://earlylore.com/categories/links-qr"
+    },
+    {
+      "group": "Utilities",
+      "slug": "keyboards-input",
+      "name": "Keyboards & Input",
+      "product_count": 501,
+      "definition": "Keyboards, input methods and text expansion.",
+      "url": "https://earlylore.com/categories/keyboards-input"
+    },
+    {
+      "group": "Utilities",
+      "slug": "phone-telecom",
+      "name": "Phone Numbers & Telecom",
+      "product_count": 1164,
+      "definition": "Virtual numbers, calling, SMS receiving and telecom services.",
+      "url": "https://earlylore.com/categories/phone-telecom"
+    },
+    {
+      "group": "Utilities",
+      "slug": "weather-time",
+      "name": "Weather, Clocks & Time Zones",
+      "product_count": 1172,
+      "definition": "Weather, clocks, timers and time zone tools.",
+      "url": "https://earlylore.com/categories/weather-time"
+    },
+    {
+      "group": "Design",
+      "slug": "graphic-design",
+      "name": "Graphic & Brand Design",
+      "product_count": 4577,
+      "definition": "Social graphics, posters, logos and brand kits.",
+      "url": "https://earlylore.com/categories/graphic-design"
+    },
+    {
+      "group": "Design",
+      "slug": "ui-ux",
+      "name": "UI/UX Design & Prototyping",
+      "product_count": 1893,
+      "definition": "Interface design, prototypes, design systems and AI UI generation.",
+      "url": "https://earlylore.com/categories/ui-ux"
+    },
+    {
+      "group": "Design",
+      "slug": "ai-image",
+      "name": "AI Image Generation",
+      "product_count": 2552,
+      "definition": "Text-to-image and general AI image generators.",
+      "url": "https://earlylore.com/categories/ai-image"
+    },
+    {
+      "group": "Design",
+      "slug": "photo-editing",
+      "name": "Photo Editing & Enhancement",
+      "product_count": 3798,
+      "definition": "Retouching, background removal, upscaling, object removal and batch editing.",
+      "url": "https://earlylore.com/categories/photo-editing"
+    },
+    {
+      "group": "Design",
+      "slug": "ai-portraits",
+      "name": "AI Portraits & Photo Effects",
+      "product_count": 1311,
+      "definition": "AI headshots, avatars, stylized portraits, face swap and photo animation.",
+      "url": "https://earlylore.com/categories/ai-portraits"
+    },
+    {
+      "group": "Design",
+      "slug": "3d-ar",
+      "name": "3D & AR/VR",
+      "product_count": 1369,
+      "definition": "3D modeling, scanning, rendering and AR/VR content.",
+      "url": "https://earlylore.com/categories/3d-ar"
+    },
+    {
+      "group": "Design",
+      "slug": "interior-space",
+      "name": "Interior & Space Design",
+      "product_count": 926,
+      "definition": "Room redesign, floor plans and interior visualization.",
+      "url": "https://earlylore.com/categories/interior-space"
+    },
+    {
+      "group": "Design",
+      "slug": "presentations",
+      "name": "Presentations",
+      "product_count": 861,
+      "definition": "Slide creation and presenting.",
+      "url": "https://earlylore.com/categories/presentations"
+    },
+    {
+      "group": "Design",
+      "slug": "design-assets",
+      "name": "Design Assets & Mockups",
+      "product_count": 3439,
+      "definition": "Icons, fonts, templates, stock media and mockups.",
+      "url": "https://earlylore.com/categories/design-assets"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "real-estate",
+      "name": "Real Estate",
+      "product_count": 2951,
+      "definition": "Software and services for agents, property managers and landlords.",
+      "url": "https://earlylore.com/categories/real-estate"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "construction",
+      "name": "Construction & Engineering",
+      "product_count": 1726,
+      "definition": "Software and services for contractors, trades, architects and engineers.",
+      "url": "https://earlylore.com/categories/construction"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "logistics",
+      "name": "Logistics & Fleet",
+      "product_count": 1627,
+      "definition": "Freight, delivery, dispatch and fleet operations.",
+      "url": "https://earlylore.com/categories/logistics"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "manufacturing",
+      "name": "Manufacturing & Industrial",
+      "product_count": 1318,
+      "definition": "Factories, industrial operations and product information.",
+      "url": "https://earlylore.com/categories/manufacturing"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "automotive",
+      "name": "Automotive Businesses",
+      "product_count": 543,
+      "definition": "Dealerships, repair shops and automotive businesses.",
+      "url": "https://earlylore.com/categories/automotive"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "restaurants",
+      "name": "Restaurants & Food Service",
+      "product_count": 1660,
+      "definition": "Restaurant ordering, reservations and kitchen operations.",
+      "url": "https://earlylore.com/categories/restaurants"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "retail-stores",
+      "name": "Brick-and-Mortar Retail",
+      "product_count": 757,
+      "definition": "POS, store inventory and retail operations.",
+      "url": "https://earlylore.com/categories/retail-stores"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "hospitality",
+      "name": "Hotels & Vacation Rentals",
+      "product_count": 867,
+      "definition": "Hotels, short-term rentals and hospitality operations.",
+      "url": "https://earlylore.com/categories/hospitality"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "healthcare-providers",
+      "name": "Healthcare & Care Providers",
+      "product_count": 2080,
+      "definition": "Clinics, therapists, care agencies and practitioners running their practice.",
+      "url": "https://earlylore.com/categories/healthcare-providers"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "life-sciences",
+      "name": "Life Sciences & Biotech",
+      "product_count": 392,
+      "definition": "Lab software, drug discovery and biotech research.",
+      "url": "https://earlylore.com/categories/life-sciences"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "wellness-business",
+      "name": "Fitness, Beauty & Wellness Businesses",
+      "product_count": 857,
+      "definition": "Gyms, personal trainers, salons, spas and wellness studios.",
+      "url": "https://earlylore.com/categories/wellness-business"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "home-services",
+      "name": "Home & Local Services",
+      "product_count": 1460,
+      "definition": "Cleaning, repair, landscaping and other local service businesses.",
+      "url": "https://earlylore.com/categories/home-services"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "education-providers",
+      "name": "Schools & Training Providers",
+      "product_count": 819,
+      "definition": "Running schools, tutoring centers and training providers.",
+      "url": "https://earlylore.com/categories/education-providers"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "agriculture",
+      "name": "Agriculture",
+      "product_count": 322,
+      "definition": "Farms and agricultural operations.",
+      "url": "https://earlylore.com/categories/agriculture"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "nonprofit-religion",
+      "name": "Nonprofits & Religious Organizations",
+      "product_count": 569,
+      "definition": "Fundraising, donors and operations for nonprofits and churches.",
+      "url": "https://earlylore.com/categories/nonprofit-religion"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "government",
+      "name": "Government & Public Safety",
+      "product_count": 656,
+      "definition": "Public sector, civic services and public safety.",
+      "url": "https://earlylore.com/categories/government"
+    },
+    {
+      "group": "Industry Software",
+      "slug": "energy",
+      "name": "Energy & Environment",
+      "product_count": 704,
+      "definition": "Energy, utilities, carbon and environmental operations.",
+      "url": "https://earlylore.com/categories/energy"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "dating",
+      "name": "Dating & Relationships",
+      "product_count": 2100,
+      "definition": "Dating apps, relationship help and dating messages.",
+      "url": "https://earlylore.com/categories/dating"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "family-parenting",
+      "name": "Family & Parenting",
+      "product_count": 1391,
+      "definition": "Parenting, baby care and family organization.",
+      "url": "https://earlylore.com/categories/family-parenting"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "pets",
+      "name": "Pets",
+      "product_count": 1017,
+      "definition": "Pet care, pet health and pet services for owners.",
+      "url": "https://earlylore.com/categories/pets"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "food-cooking",
+      "name": "Food & Cooking",
+      "product_count": 2825,
+      "definition": "Recipes, meal planning and cooking.",
+      "url": "https://earlylore.com/categories/food-cooking"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "home-living",
+      "name": "Home & Household",
+      "product_count": 1689,
+      "definition": "Chores, home maintenance, gardening and household management.",
+      "url": "https://earlylore.com/categories/home-living"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "fashion-beauty",
+      "name": "Fashion & Beauty",
+      "product_count": 1586,
+      "definition": "Outfits, styling, makeup and beauty.",
+      "url": "https://earlylore.com/categories/fashion-beauty"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "spirituality",
+      "name": "Astrology & Spirituality",
+      "product_count": 2333,
+      "definition": "Astrology, tarot, religion and spiritual practice.",
+      "url": "https://earlylore.com/categories/spirituality"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "hobbies",
+      "name": "Hobbies & Crafts",
+      "product_count": 3234,
+      "definition": "Photography, crafts, collecting, outdoors and other hobbies.",
+      "url": "https://earlylore.com/categories/hobbies"
+    },
+    {
+      "group": "Lifestyle",
+      "slug": "gifts-celebrations",
+      "name": "Gifts, Weddings & Celebrations",
+      "product_count": 2446,
+      "definition": "Gift ideas, wishlists, greeting cards, weddings and parties.",
+      "url": "https://earlylore.com/categories/gifts-celebrations"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "consumer-electronics",
+      "name": "Consumer Electronics & Accessories",
+      "product_count": 3120,
+      "definition": "Devices and accessories.",
+      "url": "https://earlylore.com/categories/consumer-electronics"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "smart-home-iot",
+      "name": "Smart Home & IoT",
+      "product_count": 724,
+      "definition": "Smart home devices, sensors and IoT.",
+      "url": "https://earlylore.com/categories/smart-home-iot"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "wearables",
+      "name": "Wearables",
+      "product_count": 386,
+      "definition": "Watches, rings and wearable devices.",
+      "url": "https://earlylore.com/categories/wearables"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "maker",
+      "name": "3D Printing & Maker Hardware",
+      "product_count": 429,
+      "definition": "3D printers, dev boards and maker hardware.",
+      "url": "https://earlylore.com/categories/maker"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "robotics-drones",
+      "name": "Robotics & Drones",
+      "product_count": 402,
+      "definition": "Robots, drones and autonomous machines.",
+      "url": "https://earlylore.com/categories/robotics-drones"
+    },
+    {
+      "group": "Hardware & Physical Products",
+      "slug": "consumer-goods",
+      "name": "Consumer Goods Brands",
+      "product_count": 12956,
+      "definition": "Food, supplements, apparel and other physical product brands.",
+      "url": "https://earlylore.com/categories/consumer-goods"
+    },
+    {
+      "group": "Education",
+      "slug": "language-learning",
+      "name": "Language Learning",
+      "product_count": 2635,
+      "definition": "Learning and practicing foreign languages.",
+      "url": "https://earlylore.com/categories/language-learning"
+    },
+    {
+      "group": "Education",
+      "slug": "test-prep",
+      "name": "Test Preparation",
+      "product_count": 1772,
+      "definition": "Exam and certification preparation.",
+      "url": "https://earlylore.com/categories/test-prep"
+    },
+    {
+      "group": "Education",
+      "slug": "tutoring",
+      "name": "AI Tutoring & Homework Help",
+      "product_count": 1426,
+      "definition": "Homework help, problem solving and AI tutors.",
+      "url": "https://earlylore.com/categories/tutoring"
+    },
+    {
+      "group": "Education",
+      "slug": "coding-education",
+      "name": "Coding Education",
+      "product_count": 2557,
+      "definition": "Learning to code and technical courses.",
+      "url": "https://earlylore.com/categories/coding-education"
+    },
+    {
+      "group": "Education",
+      "slug": "kids-learning",
+      "name": "Kids Learning",
+      "product_count": 899,
+      "definition": "Early learning and learning apps for children.",
+      "url": "https://earlylore.com/categories/kids-learning"
+    },
+    {
+      "group": "Education",
+      "slug": "study-tools",
+      "name": "Study Tools",
+      "product_count": 2499,
+      "definition": "Flashcards, study notes and revision.",
+      "url": "https://earlylore.com/categories/study-tools"
+    },
+    {
+      "group": "Education",
+      "slug": "teaching",
+      "name": "Teacher & Classroom Tools",
+      "product_count": 1356,
+      "definition": "Lesson planning, classroom management and teaching content.",
+      "url": "https://earlylore.com/categories/teaching"
+    },
+    {
+      "group": "Education",
+      "slug": "online-courses",
+      "name": "Skills & Online Courses",
+      "product_count": 3662,
+      "definition": "Professional skills and online course libraries.",
+      "url": "https://earlylore.com/categories/online-courses"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "storefronts",
+      "name": "Online Store Builders",
+      "product_count": 1139,
+      "definition": "Ecommerce platforms and storefront builders.",
+      "url": "https://earlylore.com/categories/storefronts"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "ecommerce-ops",
+      "name": "Store Operations & Growth",
+      "product_count": 1595,
+      "definition": "Catalog, pricing, merchandising and conversion tools for online stores.",
+      "url": "https://earlylore.com/categories/ecommerce-ops"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "marketplace-sellers",
+      "name": "Marketplace Seller Tools",
+      "product_count": 1032,
+      "definition": "Tools for Amazon, Etsy, eBay, TikTok Shop and resale-platform sellers.",
+      "url": "https://earlylore.com/categories/marketplace-sellers"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "sourcing-fulfillment",
+      "name": "Sourcing, Dropshipping & Fulfillment",
+      "product_count": 678,
+      "definition": "Suppliers, white label, print on demand, dropshipping and fulfillment.",
+      "url": "https://earlylore.com/categories/sourcing-fulfillment"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "marketplaces",
+      "name": "Marketplaces & Classifieds",
+      "product_count": 6929,
+      "definition": "Marketplaces for goods, services, domains, websites and businesses.",
+      "url": "https://earlylore.com/categories/marketplaces"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "shopping-deals",
+      "name": "Shopping Assistants & Deals",
+      "product_count": 4429,
+      "definition": "Price comparison, coupons, cashback and shopping assistants.",
+      "url": "https://earlylore.com/categories/shopping-deals"
+    },
+    {
+      "group": "Commerce & Retail",
+      "slug": "social-commerce",
+      "name": "Social & Live Commerce",
+      "product_count": 307,
+      "definition": "Selling inside communities, chats and live streams.",
+      "url": "https://earlylore.com/categories/social-commerce"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "ai-video",
+      "name": "AI Video Generation",
+      "product_count": 2775,
+      "definition": "Text-to-video, image-to-video and AI films.",
+      "url": "https://earlylore.com/categories/ai-video"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "video-editing",
+      "name": "Video Editing",
+      "product_count": 1922,
+      "definition": "Editing and post-production.",
+      "url": "https://earlylore.com/categories/video-editing"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "short-video",
+      "name": "Short-Form Video & Clipping",
+      "product_count": 1331,
+      "definition": "Short-form generation, long-to-short clipping and faceless channels.",
+      "url": "https://earlylore.com/categories/short-video"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "avatars",
+      "name": "AI Avatars & Talking Heads",
+      "product_count": 235,
+      "definition": "Talking-avatar videos, digital humans and AI presenters.",
+      "url": "https://earlylore.com/categories/avatars"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "subtitles-dubbing",
+      "name": "Subtitles, Translation & Dubbing",
+      "product_count": 598,
+      "definition": "Captions, video translation and dubbing.",
+      "url": "https://earlylore.com/categories/subtitles-dubbing"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "voice-tts",
+      "name": "Text-to-Speech & Voice Cloning",
+      "product_count": 819,
+      "definition": "TTS, voice cloning and voice changers.",
+      "url": "https://earlylore.com/categories/voice-tts"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "music-audio",
+      "name": "Music Creation & Audio Production",
+      "product_count": 2534,
+      "definition": "AI music, composition, mixing, stem separation and audio cleanup.",
+      "url": "https://earlylore.com/categories/music-audio"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "podcasts",
+      "name": "Podcast Production",
+      "product_count": 750,
+      "definition": "Recording, editing and distributing podcasts.",
+      "url": "https://earlylore.com/categories/podcasts"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "transcription",
+      "name": "Transcription & Dictation",
+      "product_count": 1640,
+      "definition": "Speech to text, recording transcription and voice typing.",
+      "url": "https://earlylore.com/categories/transcription"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "screen-recording",
+      "name": "Screen Recording & Demos",
+      "product_count": 982,
+      "definition": "Screen capture, product demos and tutorial videos.",
+      "url": "https://earlylore.com/categories/screen-recording"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "creative-suites",
+      "name": "All-in-One AI Media Suites",
+      "product_count": 1540,
+      "definition": "One platform generating images, video and audio with many models.",
+      "url": "https://earlylore.com/categories/creative-suites"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "streaming-tools",
+      "name": "Live Streaming Tools",
+      "product_count": 492,
+      "definition": "Streaming software, overlays and live engagement.",
+      "url": "https://earlylore.com/categories/streaming-tools"
+    },
+    {
+      "group": "Video & Audio",
+      "slug": "video-hosting",
+      "name": "Video Hosting & Players",
+      "product_count": 449,
+      "definition": "Video hosting, players and video delivery.",
+      "url": "https://earlylore.com/categories/video-hosting"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "recruiting",
+      "name": "Recruiting & Hiring",
+      "product_count": 3011,
+      "definition": "Applicant tracking, sourcing and candidate screening.",
+      "url": "https://earlylore.com/categories/recruiting"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "job-search",
+      "name": "Job Search & Resumes",
+      "product_count": 7440,
+      "definition": "Resume builders, job applications and job search.",
+      "url": "https://earlylore.com/categories/job-search"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "interview-prep",
+      "name": "Interview Preparation",
+      "product_count": 1325,
+      "definition": "Mock interviews and interview coaching.",
+      "url": "https://earlylore.com/categories/interview-prep"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "hris-payroll",
+      "name": "HRIS & Payroll",
+      "product_count": 1222,
+      "definition": "HR records, payroll, time and attendance.",
+      "url": "https://earlylore.com/categories/hris-payroll"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "employee-experience",
+      "name": "Employee Engagement & Learning",
+      "product_count": 1600,
+      "definition": "Onboarding, training, performance and feedback.",
+      "url": "https://earlylore.com/categories/employee-experience"
+    },
+    {
+      "group": "HR & Careers",
+      "slug": "freelance",
+      "name": "Freelance & Talent Marketplaces",
+      "product_count": 949,
+      "definition": "Freelance platforms and tools for winning freelance work.",
+      "url": "https://earlylore.com/categories/freelance"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "ai-assistants",
+      "name": "General AI Assistants",
+      "product_count": 3437,
+      "definition": "General-purpose chatbots and multi-purpose assistants for everyday questions and tasks. Not: assistants built for one job (see that job's category).",
+      "url": "https://earlylore.com/categories/ai-assistants"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "llm-apis",
+      "name": "Model APIs & Gateways",
+      "product_count": 1056,
+      "definition": "APIs that serve AI models, and routers or gateways that unify access to many models.",
+      "url": "https://earlylore.com/categories/llm-apis"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "agent-platforms",
+      "name": "Agent Builders & Platforms",
+      "product_count": 2350,
+      "definition": "Platforms to build, orchestrate and deploy AI agents or agentic workflows for any use.",
+      "url": "https://earlylore.com/categories/agent-platforms"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "agent-tooling",
+      "name": "Agent Tools & MCP Servers",
+      "product_count": 2075,
+      "definition": "Capabilities plugged into agents: MCP servers, agent browsers, sandboxes, memory and tool APIs.",
+      "url": "https://earlylore.com/categories/agent-tooling"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "voice-agents",
+      "name": "Voice Agents",
+      "product_count": 1258,
+      "definition": "AI that holds phone or voice conversations: AI receptionists, call agents, voice-bot platforms.",
+      "url": "https://earlylore.com/categories/voice-agents"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "llm-ops",
+      "name": "Prompts, Evals & LLM Observability",
+      "product_count": 2042,
+      "definition": "Prompt management, model evaluation, LLM monitoring, guardrails and AI governance.",
+      "url": "https://earlylore.com/categories/llm-ops"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "ai-data",
+      "name": "Training Data & Labeling",
+      "product_count": 333,
+      "definition": "Data labeling, synthetic data and datasets for training or evaluating models.",
+      "url": "https://earlylore.com/categories/ai-data"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "model-infra",
+      "name": "Model Training & Inference Infrastructure",
+      "product_count": 739,
+      "definition": "GPU compute, fine-tuning, model hosting and inference serving.",
+      "url": "https://earlylore.com/categories/model-infra"
+    },
+    {
+      "group": "AI Models & Agents",
+      "slug": "ai-search",
+      "name": "AI Search & Answer Engines",
+      "product_count": 1514,
+      "definition": "AI search engines and question answering over the web or a document collection.",
+      "url": "https://earlylore.com/categories/ai-search"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "creator-stores",
+      "name": "Creator Storefronts & Link-in-Bio",
+      "product_count": 1384,
+      "definition": "Link-in-bio pages and stores selling digital products, bookings and courses.",
+      "url": "https://earlylore.com/categories/creator-stores"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "memberships",
+      "name": "Paid Communities & Memberships",
+      "product_count": 331,
+      "definition": "Paid communities, memberships and subscriptions to a creator.",
+      "url": "https://earlylore.com/categories/memberships"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "courses-coaching",
+      "name": "Course & Coaching Platforms",
+      "product_count": 892,
+      "definition": "Hosting and selling courses, cohorts and coaching programs.",
+      "url": "https://earlylore.com/categories/courses-coaching"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "newsletters-blogs",
+      "name": "Newsletter & Blogging Platforms",
+      "product_count": 1324,
+      "definition": "Publishing platforms for newsletters and blogs.",
+      "url": "https://earlylore.com/categories/newsletters-blogs"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "fan-engagement",
+      "name": "Fan Engagement & Monetization",
+      "product_count": 482,
+      "definition": "Tips, fan messaging and fan monetization.",
+      "url": "https://earlylore.com/categories/fan-engagement"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "community-tools",
+      "name": "Community Management Tools",
+      "product_count": 1034,
+      "definition": "Tools for running Discord, Telegram, Slack or forum communities.",
+      "url": "https://earlylore.com/categories/community-tools"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "social-networks",
+      "name": "Social Networks & Apps",
+      "product_count": 7954,
+      "definition": "Social networks and social apps.",
+      "url": "https://earlylore.com/categories/social-networks"
+    },
+    {
+      "group": "Creator Economy & Community",
+      "slug": "founder-communities",
+      "name": "Startup & Founder Communities",
+      "product_count": 1033,
+      "definition": "Co-founder matching, build-in-public and founder networks.",
+      "url": "https://earlylore.com/categories/founder-communities"
+    },
+    {
+      "group": "Games",
+      "slug": "casual-puzzle",
+      "name": "Casual & Puzzle",
+      "product_count": 3120,
+      "definition": "Casual, puzzle and brain games.",
+      "url": "https://earlylore.com/categories/casual-puzzle"
+    },
+    {
+      "group": "Games",
+      "slug": "action-adventure",
+      "name": "Action & Adventure",
+      "product_count": 967,
+      "definition": "Action, shooter and adventure games.",
+      "url": "https://earlylore.com/categories/action-adventure"
+    },
+    {
+      "group": "Games",
+      "slug": "strategy-simulation",
+      "name": "Strategy & Simulation",
+      "product_count": 1107,
+      "definition": "Strategy, tycoon, management and simulation games.",
+      "url": "https://earlylore.com/categories/strategy-simulation"
+    },
+    {
+      "group": "Games",
+      "slug": "rpg",
+      "name": "Role-Playing",
+      "product_count": 448,
+      "definition": "Role-playing games.",
+      "url": "https://earlylore.com/categories/rpg"
+    },
+    {
+      "group": "Games",
+      "slug": "board-card",
+      "name": "Board & Card",
+      "product_count": 1109,
+      "definition": "Board, card and tabletop games.",
+      "url": "https://earlylore.com/categories/board-card"
+    },
+    {
+      "group": "Games",
+      "slug": "word-trivia",
+      "name": "Word & Trivia",
+      "product_count": 2237,
+      "definition": "Word games, trivia and party games.",
+      "url": "https://earlylore.com/categories/word-trivia"
+    },
+    {
+      "group": "Games",
+      "slug": "sports-racing",
+      "name": "Sports & Racing",
+      "product_count": 359,
+      "definition": "Sports and racing games.",
+      "url": "https://earlylore.com/categories/sports-racing"
+    },
+    {
+      "group": "Games",
+      "slug": "game-tools",
+      "name": "Game Discovery, Guides & Tools",
+      "product_count": 4885,
+      "definition": "Finding games, guides, mods, trackers and player tools.",
+      "url": "https://earlylore.com/categories/game-tools"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "fitness",
+      "name": "Fitness & Workouts",
+      "product_count": 3307,
+      "definition": "Workout plans and training tracking for individuals.",
+      "url": "https://earlylore.com/categories/fitness"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "nutrition",
+      "name": "Nutrition & Diet",
+      "product_count": 1717,
+      "definition": "Food logging, calories and diet guidance.",
+      "url": "https://earlylore.com/categories/nutrition"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "mental-health",
+      "name": "Mental Health & Meditation",
+      "product_count": 3469,
+      "definition": "Meditation, mood, journaling and mental health support.",
+      "url": "https://earlylore.com/categories/mental-health"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "sleep",
+      "name": "Sleep",
+      "product_count": 405,
+      "definition": "Sleep tracking and sleep aids.",
+      "url": "https://earlylore.com/categories/sleep"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "body-appearance",
+      "name": "Body & Appearance",
+      "product_count": 574,
+      "definition": "Height, posture, skin, face and appearance improvement.",
+      "url": "https://earlylore.com/categories/body-appearance"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "womens-health",
+      "name": "Women's Health",
+      "product_count": 338,
+      "definition": "Cycle, fertility, pregnancy and menopause.",
+      "url": "https://earlylore.com/categories/womens-health"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "medical-ai",
+      "name": "Symptom Checkers & Medical AI",
+      "product_count": 1692,
+      "definition": "Symptom checks, report interpretation and patient-side medical help.",
+      "url": "https://earlylore.com/categories/medical-ai"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "care-aging",
+      "name": "Caregiving & Aging",
+      "product_count": 522,
+      "definition": "Caregiving, elder care and chronic condition management for families.",
+      "url": "https://earlylore.com/categories/care-aging"
+    },
+    {
+      "group": "Health & Wellness",
+      "slug": "addiction-recovery",
+      "name": "Addiction & Quitting",
+      "product_count": 285,
+      "definition": "Quitting smoking, drinking, porn or gambling.",
+      "url": "https://earlylore.com/categories/addiction-recovery"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "web-analytics",
+      "name": "Website Analytics",
+      "product_count": 643,
+      "definition": "Website traffic and visitor analytics.",
+      "url": "https://earlylore.com/categories/web-analytics"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "product-analytics",
+      "name": "Product Analytics & Session Replay",
+      "product_count": 487,
+      "definition": "In-product behavior, funnels, retention and session replay.",
+      "url": "https://earlylore.com/categories/product-analytics"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "bi-dashboards",
+      "name": "BI & Dashboards",
+      "product_count": 2101,
+      "definition": "Business intelligence, KPI dashboards and reporting.",
+      "url": "https://earlylore.com/categories/bi-dashboards"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "data-pipelines",
+      "name": "Data Integration & Warehousing",
+      "product_count": 673,
+      "definition": "ETL, data sync, warehouses and reverse ETL.",
+      "url": "https://earlylore.com/categories/data-pipelines"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "web-scraping",
+      "name": "Web Scraping & Extraction",
+      "product_count": 1059,
+      "definition": "Scrapers, crawlers, page-change monitoring and structured extraction.",
+      "url": "https://earlylore.com/categories/web-scraping"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "spreadsheets",
+      "name": "Spreadsheets & Data Analysis AI",
+      "product_count": 945,
+      "definition": "Spreadsheet tools and asking questions of data in natural language.",
+      "url": "https://earlylore.com/categories/spreadsheets"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "market-intelligence",
+      "name": "Market & Competitive Intelligence",
+      "product_count": 4044,
+      "definition": "Market trends, competitor tracking, product research and industry intelligence.",
+      "url": "https://earlylore.com/categories/market-intelligence"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "data-providers",
+      "name": "Data APIs & Datasets",
+      "product_count": 1087,
+      "definition": "Third-party data feeds and datasets. Not: B2B contact data for sales (see Lead Databases & Enrichment).",
+      "url": "https://earlylore.com/categories/data-providers"
+    },
+    {
+      "group": "Data & Analytics",
+      "slug": "user-research",
+      "name": "User Research & Testing",
+      "product_count": 1206,
+      "definition": "User interviews, usability testing, panels and insight repositories.",
+      "url": "https://earlylore.com/categories/user-research"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "ai-writing",
+      "name": "AI Writing Assistants",
+      "product_count": 2718,
+      "definition": "Draft, rewrite and expand text for general writing.",
+      "url": "https://earlylore.com/categories/ai-writing"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "ai-detection",
+      "name": "AI Detection & Humanizers",
+      "product_count": 639,
+      "definition": "Detect AI-written text or rewrite it to read as human.",
+      "url": "https://earlylore.com/categories/ai-detection"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "grammar-editing",
+      "name": "Grammar & Proofreading",
+      "product_count": 459,
+      "definition": "Grammar checks, proofreading and style editing.",
+      "url": "https://earlylore.com/categories/grammar-editing"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "translation",
+      "name": "Translation & Localization",
+      "product_count": 1271,
+      "definition": "Translate text, documents, websites and apps.",
+      "url": "https://earlylore.com/categories/translation"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "pdf-documents",
+      "name": "PDF & Document Tools",
+      "product_count": 3297,
+      "definition": "Edit, convert, sign, chat with and process PDFs and documents.",
+      "url": "https://earlylore.com/categories/pdf-documents"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "books-publishing",
+      "name": "Books & Self-Publishing",
+      "product_count": 771,
+      "definition": "Writing books, ebooks, KDP and low-content publishing.",
+      "url": "https://earlylore.com/categories/books-publishing"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "creative-writing",
+      "name": "Fiction & Script Writing",
+      "product_count": 893,
+      "definition": "Fiction, screenplays and story development.",
+      "url": "https://earlylore.com/categories/creative-writing"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "academic",
+      "name": "Academic Writing & Research",
+      "product_count": 1131,
+      "definition": "Papers, literature review, citations and academic search.",
+      "url": "https://earlylore.com/categories/academic"
+    },
+    {
+      "group": "Writing & Documents",
+      "slug": "markdown-editors",
+      "name": "Text & Markdown Editors",
+      "product_count": 558,
+      "definition": "Plain-text and Markdown editors and converters.",
+      "url": "https://earlylore.com/categories/markdown-editors"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "workflow-automation",
+      "name": "Workflow Automation & Integrations",
+      "product_count": 1503,
+      "definition": "Cross-app automation and integration platforms.",
+      "url": "https://earlylore.com/categories/workflow-automation"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "internal-tools",
+      "name": "Internal Tools & No-Code Databases",
+      "product_count": 675,
+      "definition": "Low-code internal apps and online databases.",
+      "url": "https://earlylore.com/categories/internal-tools"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "forms-surveys",
+      "name": "Forms & Surveys",
+      "product_count": 1897,
+      "definition": "Forms, surveys and data collection.",
+      "url": "https://earlylore.com/categories/forms-surveys"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "document-workflows",
+      "name": "Document Generation & Approvals",
+      "product_count": 1148,
+      "definition": "Document automation, approvals and business document workflows.",
+      "url": "https://earlylore.com/categories/document-workflows"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "events",
+      "name": "Event Management & Ticketing",
+      "product_count": 2912,
+      "definition": "Event registration, ticketing and event operations.",
+      "url": "https://earlylore.com/categories/events"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "erp-inventory",
+      "name": "ERP, Inventory & Procurement",
+      "product_count": 1383,
+      "definition": "ERP, inventory, purchasing and supply chain.",
+      "url": "https://earlylore.com/categories/erp-inventory"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "agency-ops",
+      "name": "Agency & Freelancer Operations",
+      "product_count": 1363,
+      "definition": "Client portals, projects, invoicing and delivery for agencies, consultants and freelancers.",
+      "url": "https://earlylore.com/categories/agency-ops"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "it-management",
+      "name": "IT & SaaS Management",
+      "product_count": 504,
+      "definition": "Devices, software licenses, SaaS spend and IT assets.",
+      "url": "https://earlylore.com/categories/it-management"
+    },
+    {
+      "group": "Business Operations",
+      "slug": "company-admin",
+      "name": "Company Formation & Admin",
+      "product_count": 330,
+      "definition": "Incorporation, registered agents, virtual addresses and company admin.",
+      "url": "https://earlylore.com/categories/company-admin"
+    },
+    {
+      "group": "Travel & Transportation",
+      "slug": "trip-planning",
+      "name": "Trip Planning",
+      "product_count": 2933,
+      "definition": "Itineraries and travel planning.",
+      "url": "https://earlylore.com/categories/trip-planning"
+    },
+    {
+      "group": "Travel & Transportation",
+      "slug": "travel-booking",
+      "name": "Travel Booking & Deals",
+      "product_count": 2348,
+      "definition": "Flights, hotels and travel deals.",
+      "url": "https://earlylore.com/categories/travel-booking"
+    },
+    {
+      "group": "Travel & Transportation",
+      "slug": "navigation",
+      "name": "Maps, Navigation & Transit",
+      "product_count": 1076,
+      "definition": "Maps, routing and public transit.",
+      "url": "https://earlylore.com/categories/navigation"
+    },
+    {
+      "group": "Travel & Transportation",
+      "slug": "travel-tools",
+      "name": "Travel Tools",
+      "product_count": 1174,
+      "definition": "Visas, eSIMs, packing, currency and other trip helpers.",
+      "url": "https://earlylore.com/categories/travel-tools"
+    },
+    {
+      "group": "Travel & Transportation",
+      "slug": "vehicles",
+      "name": "Vehicles & Mobility",
+      "product_count": 2030,
+      "definition": "Car ownership, EV charging, parking and personal mobility for individuals.",
+      "url": "https://earlylore.com/categories/vehicles"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "passwords-identity",
+      "name": "Passwords & Identity",
+      "product_count": 843,
+      "definition": "Password managers, SSO and identity security.",
+      "url": "https://earlylore.com/categories/passwords-identity"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "vpn-privacy",
+      "name": "VPN & Privacy Protection",
+      "product_count": 2096,
+      "definition": "VPNs, tracker and ad blocking, private browsing and data removal.",
+      "url": "https://earlylore.com/categories/vpn-privacy"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "app-security",
+      "name": "Application & Cloud Security",
+      "product_count": 1839,
+      "definition": "Vulnerability scanning, code security, secrets and cloud posture.",
+      "url": "https://earlylore.com/categories/app-security"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "security-ops",
+      "name": "Security Operations & Threat Detection",
+      "product_count": 1052,
+      "definition": "SOC tooling, threat detection, incident response and security monitoring.",
+      "url": "https://earlylore.com/categories/security-ops"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "fraud-verification",
+      "name": "Fraud Prevention & Verification",
+      "product_count": 1511,
+      "definition": "Fraud and bot detection, identity verification and abuse prevention.",
+      "url": "https://earlylore.com/categories/fraud-verification"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "backup-recovery",
+      "name": "Backup & Data Recovery",
+      "product_count": 373,
+      "definition": "Backups, data recovery and disaster recovery.",
+      "url": "https://earlylore.com/categories/backup-recovery"
+    },
+    {
+      "group": "Security & Privacy",
+      "slug": "personal-safety",
+      "name": "Personal & Family Safety",
+      "product_count": 832,
+      "definition": "Location sharing, safety alerts, anti-theft trackers and family protection.",
+      "url": "https://earlylore.com/categories/personal-safety"
+    },
+    {
+      "group": "Sales",
+      "slug": "crm",
+      "name": "CRM",
+      "product_count": 1940,
+      "definition": "Customer records, pipelines and deal management.",
+      "url": "https://earlylore.com/categories/crm"
+    },
+    {
+      "group": "Sales",
+      "slug": "lead-data",
+      "name": "Lead Databases & Enrichment",
+      "product_count": 2002,
+      "definition": "B2B contact databases, email and phone finders, enrichment and verification.",
+      "url": "https://earlylore.com/categories/lead-data"
+    },
+    {
+      "group": "Sales",
+      "slug": "cold-email",
+      "name": "Cold Email & Deliverability",
+      "product_count": 599,
+      "definition": "Cold email sequences, inbox infrastructure, warmup and deliverability.",
+      "url": "https://earlylore.com/categories/cold-email"
+    },
+    {
+      "group": "Sales",
+      "slug": "linkedin-outreach",
+      "name": "LinkedIn Outreach & Social Selling",
+      "product_count": 263,
+      "definition": "LinkedIn automation and social selling.",
+      "url": "https://earlylore.com/categories/linkedin-outreach"
+    },
+    {
+      "group": "Sales",
+      "slug": "ai-sdr",
+      "name": "AI SDR Agents",
+      "product_count": 651,
+      "definition": "Autonomous agents that research, prospect, reach out and book meetings across channels.",
+      "url": "https://earlylore.com/categories/ai-sdr"
+    },
+    {
+      "group": "Sales",
+      "slug": "conversation-setting",
+      "name": "DM & Conversation Setting",
+      "product_count": 420,
+      "definition": "Turn social DMs, SMS or WhatsApp conversations into booked calls or sales.",
+      "url": "https://earlylore.com/categories/conversation-setting"
+    },
+    {
+      "group": "Sales",
+      "slug": "sales-calls",
+      "name": "Dialers & Conversation Intelligence",
+      "product_count": 287,
+      "definition": "Dialers, call recording and sales call analysis.",
+      "url": "https://earlylore.com/categories/sales-calls"
+    },
+    {
+      "group": "Sales",
+      "slug": "proposals-esign",
+      "name": "Proposals, Quotes & E-signature",
+      "product_count": 875,
+      "definition": "Proposals, quotes, contracts sent for signature.",
+      "url": "https://earlylore.com/categories/proposals-esign"
+    },
+    {
+      "group": "Sales",
+      "slug": "buyer-signals",
+      "name": "Buyer Intent & Lead Listening",
+      "product_count": 587,
+      "definition": "Find buying intent in communities, groups, social posts and web signals.",
+      "url": "https://earlylore.com/categories/buyer-signals"
+    },
+    {
+      "group": "Sales",
+      "slug": "sales-enablement",
+      "name": "Sales Enablement & Coaching",
+      "product_count": 638,
+      "definition": "Sales content, playbooks, training and rep coaching.",
+      "url": "https://earlylore.com/categories/sales-enablement"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "helpdesk",
+      "name": "Helpdesk & Ticketing",
+      "product_count": 437,
+      "definition": "Ticketing systems and agent workspaces.",
+      "url": "https://earlylore.com/categories/helpdesk"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "ai-support",
+      "name": "AI Support Agents",
+      "product_count": 1891,
+      "definition": "AI agents and chatbots that answer customers.",
+      "url": "https://earlylore.com/categories/ai-support"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "live-chat",
+      "name": "Live Chat & Messaging Inbox",
+      "product_count": 603,
+      "definition": "Website chat and shared inboxes for WhatsApp, Instagram and other channels.",
+      "url": "https://earlylore.com/categories/live-chat"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "feedback-roadmap",
+      "name": "Feedback & Roadmaps",
+      "product_count": 794,
+      "definition": "Feature requests, voting, changelogs and public roadmaps.",
+      "url": "https://earlylore.com/categories/feedback-roadmap"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "reviews-reputation",
+      "name": "Reviews & Reputation",
+      "product_count": 1132,
+      "definition": "Review collection, review widgets and reputation monitoring.",
+      "url": "https://earlylore.com/categories/reviews-reputation"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "knowledge-base",
+      "name": "Help Centers & Knowledge Bases",
+      "product_count": 258,
+      "definition": "Help docs, FAQs and self-service portals.",
+      "url": "https://earlylore.com/categories/knowledge-base"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "onboarding-retention",
+      "name": "Onboarding & Retention",
+      "product_count": 431,
+      "definition": "Product tours, churn prevention and customer health.",
+      "url": "https://earlylore.com/categories/onboarding-retention"
+    },
+    {
+      "group": "Customer Service & Success",
+      "slug": "managed-support",
+      "name": "Managed Support Services",
+      "product_count": 336,
+      "definition": "Human teams that run customer support or IT help for a company.",
+      "url": "https://earlylore.com/categories/managed-support"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "legal-docs",
+      "name": "Legal Documents & Contracts",
+      "product_count": 1023,
+      "definition": "Contract drafting, review and management.",
+      "url": "https://earlylore.com/categories/legal-docs"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "compliance",
+      "name": "Compliance Automation",
+      "product_count": 1410,
+      "definition": "SOC 2, ISO and regulatory compliance programs.",
+      "url": "https://earlylore.com/categories/compliance"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "privacy-compliance",
+      "name": "Privacy & Cookie Compliance",
+      "product_count": 349,
+      "definition": "GDPR, consent and privacy policies.",
+      "url": "https://earlylore.com/categories/privacy-compliance"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "ip-brand-protection",
+      "name": "IP & Brand Protection",
+      "product_count": 323,
+      "definition": "Counterfeit and infringement monitoring, takedowns and trademarks.",
+      "url": "https://earlylore.com/categories/ip-brand-protection"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "legal-practice",
+      "name": "Law Firms & Legal Services",
+      "product_count": 1193,
+      "definition": "Law practice software and online legal services.",
+      "url": "https://earlylore.com/categories/legal-practice"
+    },
+    {
+      "group": "Legal & Compliance",
+      "slug": "immigration",
+      "name": "Immigration & Visas",
+      "product_count": 457,
+      "definition": "Visa applications and immigration help.",
+      "url": "https://earlylore.com/categories/immigration"
+    }
+  ]
+}

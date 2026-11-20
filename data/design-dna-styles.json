@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "analyzed_sites": 104000,
+    "style_count": 12,
+    "captured_through": "2026-11-17T04:48:03.420Z",
+    "source_url": "https://earlylore.com/design"
+  },
+  "styles": [
+    {
+      "slug": "soft-friendly",
+      "name": "Soft & Friendly",
+      "product_count": 39418,
+      "summary": "Warm low-saturation pastels, generous rounded corners, and approachable illustrations.",
+      "url": "https://earlylore.com/design/soft-friendly"
+    },
+    {
+      "slug": "minimal-mono",
+      "name": "Minimal Monochrome",
+      "product_count": 39293,
+      "summary": "Monochrome palette with a single accent color, hairline dividers, and generous whitespace.",
+      "url": "https://earlylore.com/design/minimal-mono"
+    },
+    {
+      "slug": "corporate",
+      "name": "Enterprise Clean",
+      "product_count": 38954,
+      "summary": "Trustworthy blue-anchored palette, structured grids, and prominent customer logo walls.",
+      "url": "https://earlylore.com/design/corporate"
+    },
+    {
+      "slug": "gradient-glow",
+      "name": "Gradient Glow",
+      "product_count": 17680,
+      "summary": "Luminous radial glows and translucent glass panels, widely used across modern AI products.",
+      "url": "https://earlylore.com/design/gradient-glow"
+    },
+    {
+      "slug": "editorial",
+      "name": "Editorial",
+      "product_count": 12965,
+      "summary": "Oversized serif headlines, narrow reading columns, and magazine-inspired grid layouts.",
+      "url": "https://earlylore.com/design/editorial"
+    },
+    {
+      "slug": "dark-developer",
+      "name": "Dark Developer",
+      "product_count": 7076,
+      "summary": "Deep dark surfaces, monospace typography, terminal/code snippets, and high-precision borders.",
+      "url": "https://earlylore.com/design/dark-developer"
+    },
+    {
+      "slug": "vibrant-pop",
+      "name": "Vibrant Pop",
+      "product_count": 7004,
+      "summary": "Full-bleed high-saturation brand backdrops, oversized bold display type, and high-contrast buttons, common across creator tools and consumer apps.",
+      "url": "https://earlylore.com/design/vibrant-pop"
+    },
+    {
+      "slug": "3d-tactile",
+      "name": "3D Tactile",
+      "product_count": 2754,
+      "summary": "Rendered 3D objects, soft studio lighting, and tactile material depth.",
+      "url": "https://earlylore.com/design/3d-tactile"
+    },
+    {
+      "slug": "retro",
+      "name": "Retro & Nostalgic",
+      "product_count": 2177,
+      "summary": "Pixel typography, classic OS window chrome, or warm vintage print palettes.",
+      "url": "https://earlylore.com/design/retro"
+    },
+    {
+      "slug": "swiss-grid",
+      "name": "Precision Swiss Grid",
+      "product_count": 1154,
+      "summary": "Exposed 1px hairline grid rules with intersection crosshairs, modular bento cards, and strict geometric alignment with modern engineering craft.",
+      "url": "https://earlylore.com/design/swiss-grid"
+    },
+    {
+      "slug": "hand-drawn",
+      "name": "Hand-Drawn & Sketch",
+      "product_count": 875,
+      "summary": "Handwritten display accents, doodle annotations, and sketch-style illustrations.",
+      "url": "https://earlylore.com/design/hand-drawn"
+    },
+    {
+      "slug": "neo-brutalism",
+      "name": "Neo-Brutalism",
+      "product_count": 577,
+      "summary": "Bold black strokes, hard offset shadows, and high-saturation color blocks.",
+      "url": "https://earlylore.com/design/neo-brutalism"
+    }
+  ]
+}
