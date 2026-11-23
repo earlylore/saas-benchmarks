@@ -1,21 +1,21 @@
 slug,name,group,products_catalogued,websites_with_traffic,combined_latest_monthly_visits,median_monthly_entry_price,revenue_evidence_products,url
-ai-coding,AI Coding Assistants & Editors,Software Development,2248,2237,98.7M,$16.1,28,https://earlylore.com/categories/ai-coding
-app-builders,AI App Builders & Low-Code,Software Development,1509,1501,102M,$20,43,https://earlylore.com/categories/app-builders
-agent-platforms,Agent Builders & Platforms,AI Models & Agents,2350,2335,49.1M,$25,50,https://earlylore.com/categories/agent-platforms
-agent-tooling,Agent Tools & MCP Servers,AI Models & Agents,2075,2059,25.5M,$19,17,https://earlylore.com/categories/agent-tooling
-auth-billing,"Auth, Payments & Billing Infrastructure",Software Development,555,554,84.2M,$29,13,https://earlylore.com/categories/auth-billing
-backend,"Backend, Databases & Storage",Software Development,1067,1064,60.3M,$19,20,https://earlylore.com/categories/backend
-domains-email-infra,"Domains, DNS & Email Delivery",Software Development,899,896,28.5M,$10,23,https://earlylore.com/categories/domains-email-infra
-web-scraping,Web Scraping & Extraction,Data & Analytics,1059,1054,53.1M,$16.78,52,https://earlylore.com/categories/web-scraping
-bi-dashboards,BI & Dashboards,Data & Analytics,2101,2092,23.4M,$25,44,https://earlylore.com/categories/bi-dashboards
-web-analytics,Website Analytics,Data & Analytics,643,635,3.4M,$10.89,36,https://earlylore.com/categories/web-analytics
-product-analytics,Product Analytics & Session Replay,Data & Analytics,487,487,11.3M,$31.32,14,https://earlylore.com/categories/product-analytics
-monitoring,Monitoring & Observability,Software Development,2200,2187,45.9M,$14.99,52,https://earlylore.com/categories/monitoring
-lead-data,Lead Databases & Enrichment,Sales,2002,1981,65.1M,$29.07,100,https://earlylore.com/categories/lead-data
-ai-sdr,AI SDR Agents,Sales,651,647,11.3M,$69,33,https://earlylore.com/categories/ai-sdr
-voice-tts,Text-to-Speech & Voice Cloning,Video & Audio,819,815,94.1M,$9.9,26,https://earlylore.com/categories/voice-tts
-ai-video,AI Video Generation,Video & Audio,2775,2734,113.9M,$11.99,46,https://earlylore.com/categories/ai-video
-ai-support,AI Support Agents,Customer Service & Success,1891,1878,12.8M,$29,47,https://earlylore.com/categories/ai-support
-testing-qa,Testing & Code Quality,Software Development,2291,2284,21.4M,$20,42,https://earlylore.com/categories/testing-qa
-conversion,Conversion Optimization & Social Proof,Marketing,1241,1237,10.7M,$19,53,https://earlylore.com/categories/conversion
-market-intelligence,Market & Competitive Intelligence,Data & Analytics,4044,4028,145.5M,$25,107,https://earlylore.com/categories/market-intelligence
+ai-coding,AI Coding Assistants & Editors,Software Development,2535,2252,97.8M,$16.1,35,https://earlylore.com/categories/ai-coding
+app-builders,AI App Builders & Low-Code,Software Development,1584,1505,103.5M,$20,47,https://earlylore.com/categories/app-builders
+agent-platforms,Agent Builders & Platforms,AI Models & Agents,2654,2345,48.3M,$25,53,https://earlylore.com/categories/agent-platforms
+agent-tooling,Agent Tools & MCP Servers,AI Models & Agents,3246,2105,32.2M,$19,22,https://earlylore.com/categories/agent-tooling
+auth-billing,"Auth, Payments & Billing Infrastructure",Software Development,587,555,81.6M,$29,19,https://earlylore.com/categories/auth-billing
+backend,"Backend, Databases & Storage",Software Development,1187,1077,56.3M,$19,51,https://earlylore.com/categories/backend
+domains-email-infra,"Domains, DNS & Email Delivery",Software Development,977,898,27.4M,$9.99,25,https://earlylore.com/categories/domains-email-infra
+web-scraping,Web Scraping & Extraction,Data & Analytics,1224,1063,53.1M,$16,56,https://earlylore.com/categories/web-scraping
+bi-dashboards,BI & Dashboards,Data & Analytics,2288,2112,25M,$25,49,https://earlylore.com/categories/bi-dashboards
+web-analytics,Website Analytics,Data & Analytics,710,634,3.4M,$12,36,https://earlylore.com/categories/web-analytics
+product-analytics,Product Analytics & Session Replay,Data & Analytics,509,491,11.8M,$30.35,18,https://earlylore.com/categories/product-analytics
+monitoring,Monitoring & Observability,Software Development,2368,2205,51.5M,$15,56,https://earlylore.com/categories/monitoring
+lead-data,Lead Databases & Enrichment,Sales,2136,1987,63.7M,$29.99,104,https://earlylore.com/categories/lead-data
+ai-sdr,AI SDR Agents,Sales,707,649,11.3M,$72.5,36,https://earlylore.com/categories/ai-sdr
+voice-tts,Text-to-Speech & Voice Cloning,Video & Audio,858,818,94.2M,$9.9,27,https://earlylore.com/categories/voice-tts
+ai-video,AI Video Generation,Video & Audio,2950,2747,162M,$11.99,47,https://earlylore.com/categories/ai-video
+ai-support,AI Support Agents,Customer Service & Success,2024,1885,13.8M,$29,53,https://earlylore.com/categories/ai-support
+testing-qa,Testing & Code Quality,Software Development,2568,2313,21.8M,$20,84,https://earlylore.com/categories/testing-qa
+conversion,Conversion Optimization & Social Proof,Marketing,1379,1247,11.3M,$20,53,https://earlylore.com/categories/conversion
+market-intelligence,Market & Competitive Intelligence,Data & Analytics,4438,4053,147.2M,$25,111,https://earlylore.com/categories/market-intelligence

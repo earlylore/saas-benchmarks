@@ -1,47 +1,47 @@
 {
   "scope": {
-    "tracked_products": 457935,
-    "tracked_websites": 457155,
-    "revenue_proof_products": 10505,
+    "tracked_products": 460446,
+    "tracked_websites": 459332,
+    "revenue_proof_products": 11945,
     "source_url": "https://earlylore.com/market",
-    "synced_at": "2026-11-20T15:10:40Z"
+    "synced_at": "2026-11-23T12:17:21Z"
   },
   "models": [
     {
       "pricing_model": "Free",
-      "products": 94916,
-      "revenue_proof_products": 687,
-      "median_entry_price": "$3.46/mo"
+      "products": 96538,
+      "revenue_proof_products": 1924,
+      "median_entry_price": "$3.31/mo"
     },
     {
       "pricing_model": "Freemium",
-      "products": 70372,
-      "revenue_proof_products": 2553,
+      "products": 70812,
+      "revenue_proof_products": 2643,
       "median_entry_price": "$10/mo"
     },
     {
       "pricing_model": "Subscription",
-      "products": 52064,
-      "revenue_proof_products": 4364,
+      "products": 52704,
+      "revenue_proof_products": 4442,
       "median_entry_price": "$19.9/mo"
     },
     {
       "pricing_model": "One-time",
-      "products": 26266,
-      "revenue_proof_products": 674,
+      "products": 26377,
+      "revenue_proof_products": 691,
       "median_entry_price": "$19.99/mo"
     },
     {
       "pricing_model": "Usage-based",
-      "products": 11788,
-      "revenue_proof_products": 270,
+      "products": 11939,
+      "revenue_proof_products": 289,
       "median_entry_price": "$10/mo"
     },
     {
       "pricing_model": "Contact sales",
-      "products": 7528,
-      "revenue_proof_products": 197,
-      "median_entry_price": "$322.92/mo"
+      "products": 7593,
+      "revenue_proof_products": 207,
+      "median_entry_price": "$317.5/mo"
     }
   ]
 }
